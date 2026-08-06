@@ -54,6 +54,12 @@ This project demonstrates how SQL can be used to analyze a car listing dataset a
 * Data quality checks identified incomplete records that may affect reporting accuracy.
 * SQL queries enabled efficient extraction of business insights from structured data.
 
+## 📄 SQL Queries
+
+The SQL queries and query results for this project are available in the attached PDF document.
+
+**File:** `Car_Sales_SQL_Analysis.pdf`
+
 ## 📂 Repository Structure
 
 ```text

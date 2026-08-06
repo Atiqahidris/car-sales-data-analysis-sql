@@ -1,0 +1,1339 @@
+car_no,CAR BRAND NAME,car_status,listed,First Listing Date,Sale date,Days
+Car No-1,Brand-A,Not Sold,TRUE,2021-06-20,,
+Car No-2,Brand-B,Sold,TRUE,2020-08-11,2020-10-30,80
+Car No-3,Brand-C,Not Sold,FALSE,,,
+Car No-4,Brand-C,Sold,TRUE,2020-08-13,2020-11-30,109
+Car No-5,Brand-C,Not Sold,FALSE,,,
+Car No-6,Brand-C,Sold,TRUE,2020-08-26,2020-11-13,79
+Car No-7,Brand-B,Sold,TRUE,2020-09-16,2020-12-10,85
+Car No-8,Brand-D,Sold,TRUE,2020-10-05,2020-12-24,80
+Car No-9,Brand-B,Sold,TRUE,2020-10-14,2021-04-22,190
+Car No-10,Brand-E,Sold,TRUE,2020-10-25,2020-11-26,32
+Car No-11,Brand-B,Sold,TRUE,2020-11-25,2021-04-02,128
+Car No-12,Brand-B,Sold,TRUE,2020-12-05,2021-02-11,68
+Car No-13,Brand-F,Not Sold,TRUE,2020-12-17,,
+Car No-14,Brand-F,Sold,TRUE,2021-01-01,2021-01-18,17
+Car No-15,Brand-B,Sold,TRUE,2021-01-15,2021-03-20,64
+Car No-16,Brand-F,Sold,TRUE,2021-02-06,2021-02-26,20
+Car No-17,Brand-C,Sold,TRUE,2021-02-23,2021-04-24,60
+Car No-18,Brand-C,Sold,TRUE,2021-03-03,2021-04-28,56
+Car No-19,Brand-G,Sold,TRUE,2021-03-08,2021-04-16,39
+Car No-20,Brand-C,Not Sold,TRUE,2021-03-12,,
+Car No-21,Brand-B,Not Sold,TRUE,2021-03-19,,
+Car No-22,Brand-H,Not Sold,TRUE,2021-03-23,,
+Car No-23,Brand-B,Not Sold,TRUE,2021-03-26,,
+Car No-24,Brand-C,Sold,TRUE,2021-03-31,2021-05-28,58
+Car No-25,Brand-B,Sold,TRUE,2021-04-05,2021-05-08,33
+Car No-26,Brand-D,Not Sold,TRUE,2021-04-08,,
+Car No-27,Brand-B,Sold,TRUE,2021-04-12,2021-04-27,15
+Car No-28,Brand-B,Not Sold,TRUE,2021-04-17,,
+Car No-29,Brand-B,Not Sold,TRUE,2021-04-22,,
+Car No-30,Brand-C,Not Sold,TRUE,2021-05-05,,
+Car No-31,Brand-G,Not Sold,TRUE,2021-05-04,,
+Car No-32,Brand-I,Not Sold,TRUE,2021-05-26,,
+Car No-33,Brand-J,Not Sold,TRUE,2021-05-11,,
+Car No-34,Brand-C,Not Sold,TRUE,2021-05-21,,
+Car No-35,Brand-B,Not Sold,TRUE,2021-05-25,,
+Car No-36,Brand-B,Not Sold,TRUE,2021-06-14,,
+Car No-37,Brand-C,Not Sold,TRUE,2021-06-09,,
+Car No-38,Brand-B,Not Sold,TRUE,2021-06-22,,
+Car No-39,Brand-B,Not Sold,FALSE,,,
+Car No-40,Brand-K,Not Sold,FALSE,,,
+Car No-41,Brand-C,Sold,TRUE,2020-08-13,2021-04-26,256
+Car No-42,Brand-K,Not Sold,FALSE,,,
+Car No-43,Brand-B,Sold,TRUE,2020-09-01,2020-11-05,65
+Car No-44,Brand-F,Sold,TRUE,2020-09-17,2020-12-31,105
+Car No-45,Brand-B,Sold,TRUE,2020-10-11,2021-01-23,104
+Car No-46,Brand-I,Sold,TRUE,2020-10-14,2021-03-25,162
+Car No-47,Brand-B,Sold,TRUE,2020-10-25,2020-12-15,51
+Car No-48,Brand-C,Sold,TRUE,2020-11-25,2021-01-07,43
+Car No-49,Brand-I,Sold,TRUE,2020-12-07,2021-03-06,89
+Car No-50,Brand-D,Not Sold,TRUE,2020-12-17,,
+Car No-51,Brand-B,Not Sold,TRUE,2021-01-03,,
+Car No-52,Brand-E,Not Sold,TRUE,2021-01-19,,
+Car No-53,Brand-K,Sold,TRUE,2021-02-07,2021-04-28,80
+Car No-54,Brand-I,Sold,TRUE,2021-03-03,2021-05-30,88
+Car No-55,Brand-C,Not Sold,TRUE,2021-03-08,,
+Car No-56,Brand-J,Sold,TRUE,2021-03-13,2021-04-16,34
+Car No-57,Brand-B,Not Sold,TRUE,2021-03-19,,
+Car No-58,Brand-I,Sold,TRUE,2021-03-23,2021-04-13,21
+Car No-59,Brand-B,Not Sold,TRUE,2021-03-27,,
+Car No-60,Brand-B,Not Sold,TRUE,2021-03-31,,
+Car No-61,Brand-D,Not Sold,TRUE,2021-04-05,,
+Car No-62,Brand-B,Sold,TRUE,2021-04-08,2021-04-30,22
+Car No-63,Brand-K,Not Sold,TRUE,2021-04-14,,
+Car No-64,Brand-K,Sold,TRUE,2021-04-17,2021-05-05,18
+Car No-65,Brand-B,Sold,TRUE,2021-04-22,2021-05-05,13
+Car No-66,Brand-K,Not Sold,TRUE,2021-04-28,,
+Car No-67,Brand-B,Not Sold,TRUE,2021-05-05,,
+Car No-68,Brand-B,Not Sold,TRUE,2021-05-07,,
+Car No-69,Brand-K,Not Sold,TRUE,2021-05-11,,
+Car No-70,Brand-C,Not Sold,TRUE,2021-05-18,,
+Car No-71,Brand-B,Not Sold,TRUE,2021-06-09,,
+Car No-72,Brand-J,Not Sold,TRUE,2021-06-09,,
+Car No-73,Brand-B,Not Sold,TRUE,2021-06-10,,
+Car No-74,Brand-I,Not Sold,TRUE,2021-06-24,,
+Car No-75,Brand-B,Not Sold,TRUE,2021-06-22,,
+Car No-76,Brand-C,Not Sold,TRUE,2020-08-13,,
+Car No-77,Brand-B,Not Sold,FALSE,,,
+Car No-78,Brand-B,Sold,TRUE,2020-09-02,2021-04-19,229
+Car No-79,Brand-D,Sold,TRUE,2020-09-16,2021-03-08,173
+Car No-80,Brand-D,Sold,TRUE,2020-10-07,2020-12-29,83
+Car No-81,Brand-B,Sold,TRUE,2020-10-14,2021-04-29,197
+Car No-82,Brand-I,Sold,TRUE,2020-10-27,2020-11-25,29
+Car No-83,Brand-B,Sold,TRUE,2020-11-25,2021-02-11,78
+Car No-84,Brand-B,Sold,TRUE,2020-12-07,2021-01-29,53
+Car No-85,Brand-B,Sold,TRUE,2020-12-17,2021-05-21,155
+Car No-86,Brand-B,Not Sold,TRUE,2021-01-03,,
+Car No-87,Brand-K,Not Sold,TRUE,2021-01-19,,
+Car No-88,Brand-C,Not Sold,TRUE,2021-02-10,,
+Car No-89,Brand-C,Sold,TRUE,2021-02-25,2021-03-14,17
+Car No-90,Brand-B,Not Sold,TRUE,2021-03-04,,
+Car No-91,Brand-C,Sold,TRUE,2021-03-08,2021-04-17,40
+Car No-92,Brand-C,Sold,TRUE,2021-03-13,2021-03-31,18
+Car No-93,Brand-C,Not Sold,TRUE,2021-03-18,,
+Car No-94,Brand-I,Not Sold,TRUE,2021-03-23,,
+Car No-95,Brand-B,Not Sold,TRUE,2021-03-27,,
+Car No-96,Brand-B,Not Sold,TRUE,2021-03-31,,
+Car No-97,Brand-D,Not Sold,TRUE,2021-04-05,,
+Car No-98,Brand-I,Not Sold,TRUE,2021-04-08,,
+Car No-99,Brand-B,Sold,TRUE,2021-04-13,2021-04-23,10
+Car No-100,Brand-B,Not Sold,TRUE,2021-04-17,,
+Car No-101,Brand-B,Not Sold,TRUE,2021-04-22,,
+Car No-102,Brand-D,Not Sold,TRUE,2021-04-29,,
+Car No-103,Brand-B,Not Sold,TRUE,2021-04-28,,
+Car No-104,Brand-B,Not Sold,TRUE,2021-05-08,,
+Car No-105,Brand-I,Not Sold,TRUE,2021-05-28,,
+Car No-106,Brand-I,Not Sold,TRUE,2021-05-21,,
+Car No-107,Brand-B,Sold,TRUE,2021-05-26,2021-05-31,5
+Car No-108,Brand-D,Not Sold,TRUE,2021-06-14,,
+Car No-109,Brand-B,Not Sold,TRUE,2021-06-15,,
+Car No-110,Brand-F,Not Sold,FALSE,,,
+Car No-111,Brand-I,Not Sold,FALSE,,,
+Car No-112,Brand-B,Sold,TRUE,2020-08-13,2020-09-29,47
+Car No-113,Brand-I,Not Sold,FALSE,,,
+Car No-114,Brand-J,Sold,TRUE,2020-08-19,2020-10-22,64
+Car No-115,Brand-D,Sold,TRUE,2020-09-18,2020-11-12,55
+Car No-116,Brand-C,Sold,TRUE,2020-10-07,2020-12-18,72
+Car No-117,Brand-B,Sold,TRUE,2020-10-14,2020-12-16,63
+Car No-118,Brand-I,Sold,TRUE,2020-10-27,2020-12-18,52
+Car No-119,Brand-C,Not Sold,TRUE,2020-11-25,,
+Car No-120,Brand-B,Sold,TRUE,2020-12-07,2021-01-31,55
+Car No-121,Brand-D,Not Sold,TRUE,2020-12-17,,
+Car No-122,Brand-A,Sold,TRUE,2021-01-03,2021-05-17,134
+Car No-123,Brand-L,Sold,TRUE,2021-01-19,2021-02-19,31
+Car No-124,Brand-B,Sold,TRUE,2021-02-11,2021-05-19,97
+Car No-125,Brand-C,Sold,TRUE,2021-02-25,2021-03-16,19
+Car No-126,Brand-B,Sold,TRUE,2021-03-04,2021-05-11,68
+Car No-127,Brand-K,Sold,TRUE,2021-03-09,2021-04-15,37
+Car No-128,Brand-C,Not Sold,TRUE,2021-03-13,,
+Car No-129,Brand-B,Not Sold,TRUE,2021-03-18,,
+Car No-130,Brand-C,Sold,TRUE,2021-03-23,2021-05-20,58
+Car No-131,Brand-B,Not Sold,TRUE,2021-03-27,,
+Car No-132,Brand-B,Not Sold,TRUE,2021-03-31,,
+Car No-133,Brand-B,Not Sold,TRUE,2021-04-05,,
+Car No-134,Brand-C,Not Sold,TRUE,2021-04-08,,
+Car No-135,Brand-I,Not Sold,TRUE,2021-04-13,,
+Car No-136,Brand-I,Not Sold,TRUE,2021-04-17,,
+Car No-137,Brand-I,Not Sold,TRUE,2021-04-23,,
+Car No-138,Brand-I,Not Sold,TRUE,2021-04-27,,
+Car No-139,Brand-C,Not Sold,TRUE,2021-04-28,,
+Car No-140,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-141,Brand-B,Not Sold,TRUE,2021-05-16,,
+Car No-142,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-143,Brand-D,Not Sold,TRUE,2021-06-14,,
+Car No-144,Brand-L,Not Sold,TRUE,2021-05-28,,
+Car No-145,Brand-D,Not Sold,TRUE,2021-06-19,,
+Car No-146,Brand-K,Not Sold,FALSE,,,
+Car No-147,Brand-C,Not Sold,TRUE,2021-06-14,,
+Car No-148,Brand-C,Sold,TRUE,2020-08-13,2021-01-12,152
+Car No-149,Brand-B,Not Sold,FALSE,,,
+Car No-150,Brand-D,Sold,TRUE,2020-08-13,2020-09-08,26
+Car No-151,Brand-E,Sold,TRUE,2020-08-18,2020-09-30,43
+Car No-152,Brand-C,Sold,TRUE,2020-09-14,2020-10-07,23
+Car No-153,Brand-C,Sold,TRUE,2020-10-06,2020-11-12,37
+Car No-154,Brand-C,Sold,TRUE,2020-10-14,2020-12-24,71
+Car No-155,Brand-I,Sold,TRUE,2020-10-27,2020-12-02,36
+Car No-156,Brand-B,Sold,TRUE,2020-11-25,2021-03-16,111
+Car No-157,Brand-B,Sold,TRUE,2020-12-07,2021-03-12,95
+Car No-158,Brand-C,Sold,TRUE,2020-12-17,2021-02-04,49
+Car No-159,Brand-B,Not Sold,TRUE,2021-01-04,,
+Car No-160,Brand-B,Sold,TRUE,2021-01-19,2021-02-24,36
+Car No-161,Brand-C,Not Sold,TRUE,2021-02-15,,
+Car No-162,Brand-C,Not Sold,TRUE,2021-02-25,,
+Car No-163,Brand-B,Sold,TRUE,2021-03-04,2021-05-04,61
+Car No-164,Brand-B,Sold,TRUE,2021-03-09,2021-05-22,74
+Car No-165,Brand-C,Sold,TRUE,2021-03-13,2021-05-10,58
+Car No-166,Brand-D,Not Sold,TRUE,2021-03-18,,
+Car No-167,Brand-C,Not Sold,TRUE,2021-03-23,,
+Car No-168,Brand-B,Not Sold,TRUE,2021-03-27,,
+Car No-169,Brand-C,Sold,TRUE,2021-03-31,2021-05-26,56
+Car No-170,Brand-M,Not Sold,TRUE,2021-04-05,,
+Car No-171,Brand-C,Not Sold,TRUE,2021-04-08,,
+Car No-172,Brand-D,Sold,TRUE,2021-04-13,2021-04-26,13
+Car No-173,Brand-B,Sold,TRUE,2021-04-17,2021-05-11,24
+Car No-174,Brand-L,Not Sold,TRUE,2021-04-23,,
+Car No-175,Brand-B,Sold,TRUE,2021-04-29,2021-05-28,29
+Car No-176,Brand-N,Not Sold,TRUE,2021-05-02,,
+Car No-177,Brand-D,Not Sold,TRUE,2021-05-08,,
+Car No-178,Brand-F,Not Sold,TRUE,2021-05-21,,
+Car No-179,Brand-L,Not Sold,TRUE,2021-05-29,,
+Car No-180,Brand-J,Not Sold,TRUE,2021-05-26,,
+Car No-181,Brand-I,Not Sold,FALSE,,,
+Car No-182,Brand-B,Not Sold,FALSE,,,
+Car No-183,Brand-C,Not Sold,TRUE,2021-06-17,,
+Car No-184,Brand-G,Not Sold,FALSE,,,
+Car No-185,Brand-C,Sold,TRUE,2020-08-12,2020-10-08,57
+Car No-186,Brand-B,Not Sold,FALSE,,,
+Car No-187,Brand-C,Sold,TRUE,2020-08-13,2021-02-07,178
+Car No-188,Brand-D,Sold,TRUE,2020-08-24,2020-11-16,84
+Car No-189,Brand-H,Sold,TRUE,2020-09-18,2020-10-13,25
+Car No-190,Brand-L,Sold,TRUE,2020-10-07,2020-11-03,27
+Car No-191,Brand-C,Sold,TRUE,2020-10-14,2021-03-23,160
+Car No-192,Brand-L,Sold,TRUE,2020-10-27,2021-03-30,154
+Car No-193,Brand-B,Sold,TRUE,2020-11-25,2021-03-06,101
+Car No-194,Brand-B,Sold,TRUE,2020-12-08,2021-04-16,129
+Car No-195,Brand-I,Not Sold,TRUE,2020-12-17,,
+Car No-196,Brand-K,Sold,TRUE,2021-01-05,2021-02-08,34
+Car No-197,Brand-O,Not Sold,TRUE,2021-01-19,,
+Car No-198,Brand-B,Sold,TRUE,2021-02-15,2021-03-19,32
+Car No-199,Brand-C,Sold,TRUE,2021-02-25,2021-03-19,22
+Car No-200,Brand-B,Not Sold,TRUE,2021-03-04,,
+Car No-201,Brand-G,Sold,TRUE,2021-03-09,2021-03-25,16
+Car No-202,Brand-D,Not Sold,TRUE,2021-03-13,,
+Car No-203,Brand-I,Sold,TRUE,2021-03-18,2021-03-31,13
+Car No-204,Brand-I,Not Sold,TRUE,2021-03-23,,
+Car No-205,Brand-C,Not Sold,TRUE,2021-03-27,,
+Car No-206,Brand-C,Sold,TRUE,2021-03-31,2021-05-21,51
+Car No-207,Brand-J,Sold,TRUE,2021-04-05,2021-04-27,22
+Car No-208,Brand-D,Not Sold,TRUE,2021-04-08,,
+Car No-209,Brand-K,Not Sold,TRUE,2021-04-13,,
+Car No-210,Brand-C,Not Sold,TRUE,2021-04-19,,
+Car No-211,Brand-B,Not Sold,TRUE,2021-04-23,,
+Car No-212,Brand-C,Not Sold,TRUE,2021-05-05,,
+Car No-213,Brand-B,Not Sold,TRUE,2021-05-08,,
+Car No-214,Brand-J,Not Sold,TRUE,2021-05-16,,
+Car No-215,Brand-I,Not Sold,TRUE,2021-05-21,,
+Car No-216,Brand-K,Not Sold,FALSE,,,
+Car No-217,Brand-D,Not Sold,TRUE,2021-05-29,,
+Car No-218,Brand-C,Not Sold,FALSE,,,
+Car No-219,Brand-D,Not Sold,TRUE,2021-06-22,,
+Car No-220,Brand-B,Not Sold,TRUE,2021-06-14,,
+Car No-221,Brand-B,Sold,TRUE,2020-08-12,2021-03-31,231
+Car No-222,Brand-M,Not Sold,FALSE,,,
+Car No-223,Brand-D,Sold,TRUE,2020-08-13,2021-03-13,212
+Car No-224,Brand-P,Sold,FALSE,,2020-08-26,44069
+Car No-225,Brand-G,Sold,TRUE,2020-09-18,2020-12-24,97
+Car No-226,Brand-C,Sold,TRUE,2020-10-07,2021-05-12,217
+Car No-227,Brand-I,Sold,TRUE,2020-10-14,2020-12-31,78
+Car No-228,Brand-I,Sold,TRUE,2020-10-27,2021-01-08,73
+Car No-229,Brand-C,Sold,TRUE,2020-11-26,2021-02-08,74
+Car No-230,Brand-K,Sold,TRUE,2020-12-08,2021-05-31,174
+Car No-231,Brand-B,Not Sold,TRUE,2020-12-18,,
+Car No-232,Brand-D,Not Sold,TRUE,2021-01-05,,
+Car No-233,Brand-B,Not Sold,TRUE,2021-01-19,,
+Car No-234,Brand-L,Sold,TRUE,2021-02-15,2021-02-24,9
+Car No-235,Brand-I,Sold,TRUE,2021-02-25,2021-05-07,71
+Car No-236,Brand-B,Sold,TRUE,2021-03-04,2021-04-15,42
+Car No-237,Brand-L,Sold,TRUE,2021-03-09,2021-04-30,52
+Car No-238,Brand-B,Not Sold,TRUE,2021-03-13,,
+Car No-239,Brand-B,Sold,TRUE,2021-03-18,2021-05-26,69
+Car No-240,Brand-B,Not Sold,TRUE,2021-03-24,,
+Car No-241,Brand-K,Sold,TRUE,2021-03-27,2021-05-30,64
+Car No-242,Brand-C,Sold,TRUE,2021-04-01,2021-04-20,19
+Car No-243,Brand-I,Not Sold,TRUE,2021-04-09,,
+Car No-244,Brand-M,Sold,TRUE,2021-04-09,2021-04-21,12
+Car No-245,Brand-J,Sold,TRUE,2021-04-13,2021-05-08,25
+Car No-246,Brand-C,Sold,TRUE,2021-04-19,2021-05-10,21
+Car No-247,Brand-L,Not Sold,TRUE,2021-04-23,,
+Car No-248,Brand-J,Not Sold,TRUE,2021-04-28,,
+Car No-249,Brand-C,Not Sold,TRUE,2021-04-29,,
+Car No-250,Brand-D,Not Sold,TRUE,2021-05-04,,
+Car No-251,Brand-J,Not Sold,TRUE,2021-05-18,,
+Car No-252,Brand-J,Not Sold,TRUE,2021-05-29,,
+Car No-253,Brand-O,Not Sold,FALSE,,,
+Car No-254,Brand-L,Not Sold,TRUE,2021-05-26,,
+Car No-255,Brand-M,Not Sold,TRUE,2021-06-09,,
+Car No-256,Brand-C,Not Sold,TRUE,2021-06-23,,
+Car No-257,Brand-B,Not Sold,TRUE,2021-06-15,,
+Car No-258,Brand-C,Sold,TRUE,2020-08-12,2020-09-28,47
+Car No-259,Brand-K,Not Sold,FALSE,,,
+Car No-260,Brand-B,Sold,TRUE,2020-08-14,2020-09-30,47
+Car No-261,Brand-I,Not Sold,TRUE,2020-09-07,,
+Car No-262,Brand-D,Sold,TRUE,2020-09-19,2021-05-20,243
+Car No-263,Brand-D,Sold,TRUE,2020-10-07,2021-02-26,142
+Car No-264,Brand-B,Sold,TRUE,2020-10-14,2020-11-23,40
+Car No-265,Brand-D,Sold,TRUE,2020-11-05,2020-12-31,56
+Car No-266,Brand-D,Sold,TRUE,2020-11-26,2021-01-28,63
+Car No-267,Brand-Q,Sold,TRUE,2020-12-08,2020-12-31,23
+Car No-268,Brand-C,Sold,TRUE,2020-12-18,2021-05-01,134
+Car No-269,Brand-K,Not Sold,TRUE,2021-01-06,,
+Car No-270,Brand-B,Not Sold,TRUE,2021-01-20,,
+Car No-271,Brand-C,Sold,TRUE,2021-02-15,2021-05-22,96
+Car No-272,Brand-B,Sold,TRUE,2021-02-26,2021-03-30,32
+Car No-273,Brand-C,Not Sold,TRUE,2021-03-04,,
+Car No-274,Brand-B,Not Sold,TRUE,2021-03-09,,
+Car No-275,Brand-J,Not Sold,TRUE,2021-03-13,,
+Car No-276,Brand-I,Not Sold,TRUE,2021-03-18,,
+Car No-277,Brand-K,Sold,TRUE,2021-03-24,2021-05-11,48
+Car No-278,Brand-B,Sold,TRUE,2021-03-27,2021-05-12,46
+Car No-279,Brand-D,Sold,TRUE,2021-04-01,2021-05-27,56
+Car No-280,Brand-B,Not Sold,TRUE,2021-04-05,,
+Car No-281,Brand-B,Not Sold,TRUE,2021-04-09,,
+Car No-282,Brand-I,Not Sold,TRUE,2021-04-13,,
+Car No-283,Brand-C,Not Sold,TRUE,2021-04-19,,
+Car No-284,Brand-I,Sold,TRUE,2021-04-23,2021-05-23,30
+Car No-285,Brand-I,Not Sold,TRUE,2021-04-27,,
+Car No-286,Brand-D,Not Sold,TRUE,2021-04-30,,
+Car No-287,Brand-I,Not Sold,TRUE,2021-05-24,,
+Car No-288,Brand-N,Not Sold,TRUE,2021-05-18,,
+Car No-289,Brand-C,Not Sold,TRUE,2021-05-25,,
+Car No-290,Brand-L,Not Sold,FALSE,,,
+Car No-291,Brand-K,Not Sold,TRUE,2021-06-16,,
+Car No-292,Brand-B,Not Sold,TRUE,2021-06-15,,
+Car No-293,Brand-I,Not Sold,FALSE,,,
+Car No-294,Brand-D,Not Sold,TRUE,2021-06-15,,
+Car No-295,Brand-B,Sold,TRUE,2020-08-13,2021-02-26,197
+Car No-296,Brand-K,Not Sold,FALSE,,,
+Car No-297,Brand-B,Sold,TRUE,2020-08-19,2020-09-12,24
+Car No-298,Brand-B,Sold,TRUE,2020-08-26,2020-09-03,8
+Car No-299,Brand-C,Sold,TRUE,2020-09-22,2020-11-20,59
+Car No-300,Brand-B,Sold,TRUE,2020-10-08,2021-04-03,177
+Car No-301,Brand-B,Sold,TRUE,2020-10-14,2020-12-09,56
+Car No-302,Brand-C,Sold,TRUE,2020-11-13,2021-02-05,84
+Car No-303,Brand-C,Not Sold,TRUE,2020-11-27,,
+Car No-304,Brand-B,Sold,TRUE,2020-12-08,2021-03-24,106
+Car No-305,Brand-K,Not Sold,TRUE,2020-12-21,,
+Car No-306,Brand-C,Not Sold,TRUE,2021-01-06,,
+Car No-307,Brand-D,Sold,TRUE,2021-01-21,2021-04-09,78
+Car No-308,Brand-B,Not Sold,TRUE,2021-02-16,,
+Car No-309,Brand-B,Not Sold,TRUE,2021-02-26,,
+Car No-310,Brand-B,Sold,TRUE,2021-03-04,2021-05-22,79
+Car No-311,Brand-C,Sold,TRUE,2021-03-09,2021-04-27,49
+Car No-312,Brand-K,Sold,TRUE,2021-03-13,2021-03-31,18
+Car No-313,Brand-B,Not Sold,TRUE,2021-03-18,,
+Car No-314,Brand-J,Not Sold,TRUE,2021-03-24,,
+Car No-315,Brand-B,Not Sold,TRUE,2021-03-29,,
+Car No-316,Brand-B,Not Sold,TRUE,2021-04-01,,
+Car No-317,Brand-C,Not Sold,TRUE,2021-04-05,,
+Car No-318,Brand-B,Sold,TRUE,2021-04-09,2021-05-20,41
+Car No-319,Brand-B,Not Sold,TRUE,2021-04-13,,
+Car No-320,Brand-I,Sold,TRUE,2021-04-19,2021-05-30,41
+Car No-321,Brand-B,Not Sold,TRUE,2021-04-23,,
+Car No-322,Brand-J,Not Sold,TRUE,2021-04-27,,
+Car No-323,Brand-B,Not Sold,TRUE,2021-04-30,,
+Car No-324,Brand-I,Not Sold,TRUE,2021-05-24,,
+Car No-325,Brand-D,Not Sold,TRUE,2021-05-27,,
+Car No-326,Brand-B,Not Sold,TRUE,2021-05-18,,
+Car No-327,Brand-K,Not Sold,TRUE,2021-06-01,,
+Car No-328,Brand-B,Not Sold,TRUE,2021-05-26,,
+Car No-329,Brand-C,Not Sold,FALSE,,,
+Car No-330,Brand-G,Not Sold,FALSE,,,
+Car No-331,Brand-I,Not Sold,TRUE,2021-06-17,,
+Car No-332,Brand-C,Sold,TRUE,2020-08-12,2021-02-24,196
+Car No-333,Brand-K,Not Sold,FALSE,,,
+Car No-334,Brand-I,Sold,TRUE,2020-08-19,2020-12-04,107
+Car No-335,Brand-G,Sold,TRUE,2020-08-30,2020-10-23,54
+Car No-336,Brand-B,Sold,TRUE,2020-09-23,2020-10-16,23
+Car No-337,Brand-C,Sold,TRUE,2020-10-08,2020-12-18,71
+Car No-338,Brand-D,Sold,TRUE,2020-10-15,2021-04-01,168
+Car No-339,Brand-C,Sold,TRUE,2020-11-13,2021-03-29,136
+Car No-340,Brand-C,Not Sold,TRUE,2020-11-27,,
+Car No-341,Brand-B,Not Sold,TRUE,2020-12-08,,
+Car No-342,Brand-B,Sold,TRUE,2020-12-20,2021-04-16,117
+Car No-343,Brand-B,Sold,TRUE,2021-01-07,2021-01-23,16
+Car No-344,Brand-B,Not Sold,TRUE,2021-01-21,,
+Car No-345,Brand-K,Sold,TRUE,2021-02-16,2021-04-08,51
+Car No-346,Brand-I,Sold,TRUE,2021-02-26,2021-03-20,22
+Car No-347,Brand-C,Sold,TRUE,2021-03-04,2021-05-08,65
+Car No-348,Brand-B,Sold,TRUE,2021-03-09,2021-04-28,50
+Car No-349,Brand-D,Not Sold,TRUE,2021-03-13,,
+Car No-350,Brand-C,Not Sold,TRUE,2021-03-18,,
+Car No-351,Brand-B,Not Sold,TRUE,2021-03-23,,
+Car No-352,Brand-B,Sold,TRUE,2021-03-29,2021-05-31,63
+Car No-353,Brand-B,Not Sold,TRUE,2021-04-01,,
+Car No-354,Brand-K,Sold,TRUE,2021-04-05,2021-06-14,70
+Car No-355,Brand-C,Sold,TRUE,2021-04-09,2021-04-30,21
+Car No-356,Brand-I,Sold,TRUE,2021-04-13,2021-04-23,10
+Car No-357,Brand-B,Not Sold,TRUE,2021-04-19,,
+Car No-358,Brand-B,Not Sold,TRUE,2021-04-24,,
+Car No-359,Brand-I,Not Sold,TRUE,2021-05-06,,
+Car No-360,Brand-I,Sold,TRUE,2021-05-01,2021-05-21,20
+Car No-361,Brand-I,Not Sold,TRUE,2021-05-19,,
+Car No-362,Brand-C,Not Sold,TRUE,2021-05-16,,
+Car No-363,Brand-B,Not Sold,TRUE,2021-05-21,,
+Car No-364,Brand-C,Not Sold,TRUE,2021-05-27,,
+Car No-365,Brand-I,Not Sold,TRUE,2021-05-27,,
+Car No-366,Brand-K,Not Sold,TRUE,2021-06-15,,
+Car No-367,Brand-C,Not Sold,TRUE,2021-06-17,,
+Car No-368,Brand-B,Not Sold,TRUE,2021-06-16,,
+Car No-369,Brand-C,Sold,TRUE,2020-08-13,2020-09-09,27
+Car No-370,Brand-I,Not Sold,FALSE,,,
+Car No-371,Brand-J,Sold,TRUE,2020-08-17,2020-10-21,65
+Car No-372,Brand-C,Sold,TRUE,2020-08-30,2020-10-26,57
+Car No-373,Brand-B,Sold,TRUE,2020-09-25,2021-05-31,248
+Car No-374,Brand-B,Sold,TRUE,2020-10-12,2020-11-19,38
+Car No-375,Brand-G,Sold,TRUE,2020-10-15,2020-12-31,77
+Car No-376,Brand-B,Sold,TRUE,2020-11-13,2021-02-16,95
+Car No-377,Brand-B,Sold,TRUE,2020-11-27,2020-12-08,11
+Car No-378,Brand-K,Not Sold,TRUE,2020-12-09,,
+Car No-379,Brand-B,Sold,TRUE,2020-12-20,2021-05-18,149
+Car No-380,Brand-D,Not Sold,TRUE,2021-01-07,,
+Car No-381,Brand-O,Sold,TRUE,2021-01-22,2021-05-07,105
+Car No-382,Brand-C,Not Sold,TRUE,2021-02-16,,
+Car No-383,Brand-B,Sold,TRUE,2021-02-26,2021-05-26,89
+Car No-384,Brand-I,Sold,TRUE,2021-03-04,2021-04-18,45
+Car No-385,Brand-C,Not Sold,TRUE,2021-03-09,,
+Car No-386,Brand-D,Not Sold,TRUE,2021-03-14,,
+Car No-387,Brand-G,Not Sold,TRUE,2021-03-19,,
+Car No-388,Brand-I,Not Sold,TRUE,2021-03-23,,
+Car No-389,Brand-C,Not Sold,TRUE,2021-03-29,,
+Car No-390,Brand-B,Not Sold,TRUE,2021-04-01,,
+Car No-391,Brand-B,Sold,TRUE,2021-04-05,2021-05-11,36
+Car No-392,Brand-B,Not Sold,TRUE,2021-04-09,,
+Car No-393,Brand-B,Not Sold,TRUE,2021-04-15,,
+Car No-394,Brand-I,Sold,TRUE,2021-04-19,2021-05-17,28
+Car No-395,Brand-C,Not Sold,TRUE,2021-04-25,,
+Car No-396,Brand-B,Not Sold,TRUE,2021-04-27,,
+Car No-397,Brand-B,Not Sold,TRUE,2021-05-01,,
+Car No-398,Brand-K,Not Sold,TRUE,2021-05-23,,
+Car No-399,Brand-G,Not Sold,TRUE,2021-05-19,,
+Car No-400,Brand-K,Not Sold,TRUE,2021-05-19,,
+Car No-401,Brand-B,Not Sold,TRUE,2021-05-25,,
+Car No-402,Brand-C,Not Sold,TRUE,2021-05-26,,
+Car No-403,Brand-I,Not Sold,FALSE,,,
+Car No-404,Brand-K,Not Sold,TRUE,2021-06-20,,
+Car No-405,Brand-B,Not Sold,FALSE,,,
+Car No-406,Brand-C,Sold,TRUE,2020-08-12,2020-09-24,43
+Car No-407,Brand-P,Not Sold,FALSE,,,
+Car No-408,Brand-C,Sold,TRUE,2020-08-17,2020-10-13,57
+Car No-409,Brand-D,Sold,TRUE,2020-08-27,2020-12-30,125
+Car No-410,Brand-K,Sold,TRUE,2020-09-25,2021-01-29,126
+Car No-411,Brand-J,Sold,TRUE,2020-10-12,2020-12-24,73
+Car No-412,Brand-B,Sold,TRUE,2020-10-15,2021-05-12,209
+Car No-413,Brand-I,Sold,TRUE,2020-11-14,2021-02-19,97
+Car No-414,Brand-C,Sold,TRUE,2020-11-27,2021-05-12,166
+Car No-415,Brand-B,Sold,TRUE,2020-12-09,2021-05-29,171
+Car No-416,Brand-C,Not Sold,TRUE,2020-12-20,,
+Car No-417,Brand-B,Sold,TRUE,2021-01-07,2021-01-31,24
+Car No-418,Brand-N,Sold,TRUE,2021-01-21,2021-03-27,65
+Car No-419,Brand-P,Not Sold,TRUE,2021-02-17,,
+Car No-420,Brand-J,Sold,TRUE,2021-02-26,2021-03-25,27
+Car No-421,Brand-C,Not Sold,TRUE,2021-03-04,,
+Car No-422,Brand-C,Sold,TRUE,2021-03-10,2021-04-07,28
+Car No-423,Brand-C,Not Sold,TRUE,2021-03-14,,
+Car No-424,Brand-K,Not Sold,TRUE,2021-03-19,,
+Car No-425,Brand-I,Sold,TRUE,2021-03-24,2021-04-12,19
+Car No-426,Brand-C,Sold,TRUE,2021-03-29,2021-05-11,43
+Car No-427,Brand-B,Sold,TRUE,2021-04-01,2021-06-18,78
+Car No-428,Brand-B,Sold,TRUE,2021-04-06,2021-04-23,17
+Car No-429,Brand-K,Sold,TRUE,2021-04-09,2021-04-23,14
+Car No-430,Brand-C,Not Sold,TRUE,2021-04-14,,
+Car No-431,Brand-C,Sold,TRUE,2021-04-19,2021-05-09,20
+Car No-432,Brand-I,Not Sold,TRUE,2021-04-25,,
+Car No-433,Brand-C,Not Sold,TRUE,2021-05-01,,
+Car No-434,Brand-B,Not Sold,TRUE,2021-05-01,,
+Car No-435,Brand-C,Sold,TRUE,2021-05-05,2021-05-24,19
+Car No-436,Brand-J,Not Sold,TRUE,2021-05-18,,
+Car No-437,Brand-K,Not Sold,TRUE,2021-05-24,,
+Car No-438,Brand-I,Not Sold,TRUE,2021-06-05,,
+Car No-439,Brand-I,Not Sold,TRUE,2021-05-27,,
+Car No-440,Brand-I,Not Sold,TRUE,2021-06-22,,
+Car No-441,Brand-B,Not Sold,TRUE,2021-06-16,,
+Car No-442,Brand-D,Not Sold,TRUE,2021-06-18,,
+Car No-443,Brand-C,Sold,TRUE,2020-08-13,2021-01-25,165
+Car No-444,Brand-B,Not Sold,FALSE,,,
+Car No-445,Brand-B,Sold,TRUE,2020-08-19,2020-08-24,5
+Car No-446,Brand-C,Sold,TRUE,2020-09-07,2020-12-04,88
+Car No-447,Brand-I,Sold,TRUE,2020-09-29,2021-03-16,168
+Car No-448,Brand-B,Sold,TRUE,2020-10-09,2021-03-31,173
+Car No-449,Brand-B,Sold,TRUE,2020-10-17,2020-10-29,12
+Car No-450,Brand-D,Sold,TRUE,2020-11-14,2020-12-12,28
+Car No-451,Brand-B,Not Sold,TRUE,2020-11-27,,
+Car No-452,Brand-P,Sold,TRUE,2020-12-09,2020-12-23,14
+Car No-453,Brand-B,Sold,TRUE,2020-12-20,2021-05-11,142
+Car No-454,Brand-B,Not Sold,TRUE,2021-01-07,,
+Car No-455,Brand-E,Sold,TRUE,2021-01-22,2021-04-20,88
+Car No-456,Brand-N,Sold,TRUE,2021-02-18,2021-04-30,71
+Car No-457,Brand-C,Not Sold,TRUE,2021-02-26,,
+Car No-458,Brand-B,Sold,TRUE,2021-03-04,2021-04-21,48
+Car No-459,Brand-B,Sold,TRUE,2021-03-10,2021-03-30,20
+Car No-460,Brand-D,Not Sold,TRUE,2021-03-15,,
+Car No-461,Brand-I,Sold,TRUE,2021-03-19,2021-05-18,60
+Car No-462,Brand-D,Sold,TRUE,2021-03-24,2021-05-29,66
+Car No-463,Brand-B,Sold,TRUE,2021-03-29,2021-05-28,60
+Car No-464,Brand-B,Not Sold,TRUE,2021-04-01,,
+Car No-465,Brand-B,Sold,TRUE,2021-04-06,2021-05-21,45
+Car No-466,Brand-C,Not Sold,TRUE,2021-04-09,,
+Car No-467,Brand-K,Not Sold,TRUE,2021-04-14,,
+Car No-468,Brand-B,Not Sold,TRUE,2021-04-25,,
+Car No-469,Brand-I,Not Sold,TRUE,2021-05-16,,
+Car No-470,Brand-C,Not Sold,TRUE,2021-05-10,,
+Car No-471,Brand-B,Not Sold,TRUE,2021-05-09,,
+Car No-472,Brand-I,Not Sold,TRUE,2021-05-21,,
+Car No-473,Brand-B,Not Sold,TRUE,2021-05-23,,
+Car No-474,Brand-C,Not Sold,TRUE,2021-05-25,,
+Car No-475,Brand-Q,Not Sold,FALSE,,,
+Car No-476,Brand-D,Not Sold,TRUE,2021-06-15,,
+Car No-477,Brand-I,Not Sold,FALSE,,,
+Car No-478,Brand-Q,Not Sold,TRUE,2021-06-22,,
+Car No-479,Brand-C,Sold,TRUE,2020-08-13,2021-05-01,261
+Car No-480,Brand-I,Not Sold,FALSE,,,
+Car No-481,Brand-I,Sold,TRUE,2020-08-19,2020-08-26,7
+Car No-482,Brand-D,Sold,TRUE,2020-09-04,2021-03-10,187
+Car No-483,Brand-K,Sold,TRUE,2020-09-25,2020-10-25,30
+Car No-484,Brand-K,Sold,TRUE,2020-10-10,2020-12-20,71
+Car No-485,Brand-B,Sold,TRUE,2020-10-17,2021-05-11,206
+Car No-486,Brand-R,Sold,TRUE,2020-11-16,2020-12-14,28
+Car No-487,Brand-B,Sold,TRUE,2020-11-27,2021-01-07,41
+Car No-488,Brand-G,Sold,TRUE,2020-12-09,2021-01-18,40
+Car No-489,Brand-D,Sold,TRUE,2020-12-21,2021-05-07,137
+Car No-490,Brand-L,Sold,TRUE,2021-01-07,2021-02-05,29
+Car No-491,Brand-D,Not Sold,TRUE,2021-01-22,,
+Car No-492,Brand-I,Sold,TRUE,2021-02-18,2021-05-10,81
+Car No-493,Brand-B,Sold,TRUE,2021-02-26,2021-04-07,40
+Car No-494,Brand-J,Sold,TRUE,2021-03-05,2021-03-30,25
+Car No-495,Brand-K,Not Sold,TRUE,2021-03-10,,
+Car No-496,Brand-D,Not Sold,TRUE,2021-03-15,,
+Car No-497,Brand-C,Not Sold,TRUE,2021-03-19,,
+Car No-498,Brand-B,Not Sold,TRUE,2021-03-25,,
+Car No-499,Brand-J,Not Sold,TRUE,2021-03-29,,
+Car No-500,Brand-C,Sold,TRUE,2021-04-01,2021-04-26,25
+Car No-501,Brand-C,Not Sold,TRUE,2021-04-06,,
+Car No-502,Brand-K,Sold,TRUE,2021-04-14,2021-05-09,25
+Car No-503,Brand-B,Not Sold,TRUE,2021-04-19,,
+Car No-504,Brand-I,Not Sold,TRUE,2021-04-25,,
+Car No-505,Brand-D,Not Sold,TRUE,2021-05-03,,
+Car No-506,Brand-L,Not Sold,TRUE,2021-05-10,,
+Car No-507,Brand-C,Not Sold,TRUE,2021-05-18,,
+Car No-508,Brand-D,Not Sold,TRUE,2021-05-18,,
+Car No-509,Brand-I,Not Sold,TRUE,2021-06-14,,
+Car No-510,Brand-D,Not Sold,TRUE,2021-05-27,,
+Car No-511,Brand-I,Not Sold,TRUE,2021-06-09,,
+Car No-512,Brand-B,Not Sold,TRUE,2021-06-22,,
+Car No-513,Brand-C,Not Sold,FALSE,,,
+Car No-514,Brand-C,Not Sold,FALSE,,,
+Car No-515,Brand-B,Sold,TRUE,2020-08-13,2020-12-12,121
+Car No-516,Brand-A,Not Sold,FALSE,,,
+Car No-517,Brand-C,Sold,TRUE,2020-08-17,2020-11-20,95
+Car No-518,Brand-B,Sold,TRUE,2020-09-04,2021-02-23,172
+Car No-519,Brand-D,Sold,TRUE,2020-09-27,2021-05-29,244
+Car No-520,Brand-B,Not Sold,TRUE,2020-10-09,,
+Car No-521,Brand-B,Sold,TRUE,2020-10-19,2020-12-15,57
+Car No-522,Brand-B,Sold,TRUE,2020-11-17,2021-05-31,195
+Car No-523,Brand-C,Sold,TRUE,2020-11-27,2021-02-07,72
+Car No-524,Brand-I,Sold,TRUE,2020-12-09,2021-03-29,110
+Car No-525,Brand-S,Sold,TRUE,2020-12-23,2021-01-09,17
+Car No-526,Brand-B,Sold,TRUE,2021-01-07,2021-04-09,92
+Car No-527,Brand-K,Sold,TRUE,2021-01-22,2021-05-20,118
+Car No-528,Brand-G,Sold,TRUE,2021-02-18,2021-05-22,93
+Car No-529,Brand-B,Not Sold,TRUE,2021-02-26,,
+Car No-530,Brand-I,Not Sold,TRUE,2021-03-05,,
+Car No-531,Brand-B,Sold,TRUE,2021-03-10,2021-03-25,15
+Car No-532,Brand-D,Not Sold,TRUE,2021-03-15,,
+Car No-533,Brand-C,Sold,TRUE,2021-03-19,2021-05-22,64
+Car No-534,Brand-B,Sold,TRUE,2021-03-24,2021-05-29,66
+Car No-535,Brand-C,Sold,TRUE,2021-03-30,2021-04-24,25
+Car No-536,Brand-D,Not Sold,TRUE,2021-04-01,,
+Car No-537,Brand-C,Sold,TRUE,2021-04-06,2021-04-23,17
+Car No-538,Brand-I,Not Sold,TRUE,2021-04-14,,
+Car No-539,Brand-C,Not Sold,TRUE,2021-04-20,,
+Car No-540,Brand-C,Not Sold,TRUE,2021-04-25,,
+Car No-541,Brand-B,Not Sold,TRUE,2021-05-08,,
+Car No-542,Brand-M,Sold,TRUE,2021-05-10,2021-05-29,19
+Car No-543,Brand-B,Not Sold,TRUE,2021-05-07,,
+Car No-544,Brand-K,Not Sold,TRUE,2021-05-21,,
+Car No-545,Brand-K,Not Sold,TRUE,2021-05-25,,
+Car No-546,Brand-D,Not Sold,TRUE,2021-05-25,,
+Car No-547,Brand-B,Not Sold,TRUE,2021-05-28,,
+Car No-548,Brand-B,Not Sold,TRUE,2021-06-23,,
+Car No-549,Brand-B,Not Sold,FALSE,,,
+Car No-550,Brand-C,Not Sold,FALSE,,,
+Car No-551,Brand-B,Sold,TRUE,2020-08-13,2020-10-03,51
+Car No-552,Brand-J,Not Sold,FALSE,,,
+Car No-553,Brand-C,Sold,TRUE,2020-08-17,2020-11-26,101
+Car No-554,Brand-B,Sold,TRUE,2020-09-04,2020-09-30,26
+Car No-555,Brand-C,Sold,TRUE,2020-09-28,2020-12-30,93
+Car No-556,Brand-I,Sold,TRUE,2020-10-15,2020-10-27,12
+Car No-557,Brand-B,Not Sold,TRUE,2020-10-19,,
+Car No-558,Brand-B,Sold,TRUE,2020-11-17,2021-04-26,160
+Car No-559,Brand-B,Sold,TRUE,2020-11-27,2021-05-07,161
+Car No-560,Brand-D,Sold,TRUE,2020-12-11,2021-05-11,151
+Car No-561,Brand-J,Sold,TRUE,2020-12-22,2021-01-29,38
+Car No-562,Brand-B,Not Sold,TRUE,2021-01-07,,
+Car No-563,Brand-B,Sold,TRUE,2021-01-23,2021-02-10,18
+Car No-564,Brand-C,Not Sold,TRUE,2021-02-18,,
+Car No-565,Brand-M,Sold,TRUE,2021-02-26,2021-03-24,26
+Car No-566,Brand-C,Not Sold,TRUE,2021-03-05,,
+Car No-567,Brand-B,Sold,TRUE,2021-03-10,2021-04-17,38
+Car No-568,Brand-I,Sold,TRUE,2021-03-15,2021-04-30,46
+Car No-569,Brand-C,Not Sold,TRUE,2021-03-19,,
+Car No-570,Brand-B,Not Sold,TRUE,2021-03-24,,
+Car No-571,Brand-B,Not Sold,TRUE,2021-03-29,,
+Car No-572,Brand-L,Sold,TRUE,2021-04-01,2021-04-25,24
+Car No-573,Brand-C,Not Sold,TRUE,2021-04-06,,
+Car No-574,Brand-C,Sold,TRUE,2021-04-10,2021-04-30,20
+Car No-575,Brand-C,Not Sold,TRUE,2021-04-14,,
+Car No-576,Brand-I,Not Sold,TRUE,2021-04-20,,
+Car No-577,Brand-B,Not Sold,TRUE,2021-04-25,,
+Car No-578,Brand-G,Not Sold,TRUE,2021-05-03,,
+Car No-579,Brand-D,Not Sold,TRUE,2021-05-07,,
+Car No-580,Brand-B,Not Sold,TRUE,2021-05-06,,
+Car No-581,Brand-I,Not Sold,TRUE,2021-05-24,,
+Car No-582,Brand-I,Not Sold,TRUE,2021-05-24,,
+Car No-583,Brand-B,Not Sold,TRUE,2021-05-28,,
+Car No-584,Brand-C,Not Sold,TRUE,2021-05-28,,
+Car No-585,Brand-B,Not Sold,TRUE,2021-06-16,,
+Car No-586,Brand-C,Not Sold,FALSE,,,
+Car No-587,Brand-L,Not Sold,FALSE,,,
+Car No-588,Brand-I,Sold,TRUE,2020-08-12,2020-11-19,99
+Car No-589,Brand-F,Not Sold,FALSE,,,
+Car No-590,Brand-I,Sold,TRUE,2020-08-26,2020-09-14,19
+Car No-591,Brand-F,Sold,TRUE,2020-09-04,2020-09-30,26
+Car No-592,Brand-I,Sold,TRUE,2020-09-29,2020-10-14,15
+Car No-593,Brand-J,Sold,TRUE,2020-10-25,2020-11-06,12
+Car No-594,Brand-B,Sold,TRUE,2020-10-19,2020-11-24,36
+Car No-595,Brand-D,Sold,TRUE,2020-11-17,2021-05-11,175
+Car No-596,Brand-B,Sold,TRUE,2020-11-28,2020-12-14,16
+Car No-597,Brand-K,Sold,TRUE,2020-12-11,2021-01-09,29
+Car No-598,Brand-D,Sold,TRUE,2020-12-22,2021-01-29,38
+Car No-599,Brand-B,Not Sold,TRUE,2021-01-08,,
+Car No-600,Brand-I,Sold,TRUE,2021-01-25,2021-02-17,23
+Car No-601,Brand-C,Not Sold,TRUE,2021-02-19,,
+Car No-602,Brand-C,Sold,TRUE,2021-02-26,2021-03-19,21
+Car No-603,Brand-Q,Not Sold,TRUE,2021-03-05,,
+Car No-604,Brand-B,Sold,TRUE,2021-03-10,2021-04-25,46
+Car No-605,Brand-I,Not Sold,TRUE,2021-03-15,,
+Car No-606,Brand-G,Not Sold,TRUE,2021-03-19,,
+Car No-607,Brand-J,Sold,TRUE,2021-03-24,2021-04-16,23
+Car No-608,Brand-F,Sold,TRUE,2021-03-29,2021-04-19,21
+Car No-609,Brand-D,Not Sold,TRUE,2021-04-02,,
+Car No-610,Brand-B,Not Sold,TRUE,2021-04-06,,
+Car No-611,Brand-C,Sold,TRUE,2021-04-10,2021-05-19,39
+Car No-612,Brand-B,Not Sold,TRUE,2021-04-14,,
+Car No-613,Brand-D,Not Sold,TRUE,2021-04-20,,
+Car No-614,Brand-B,Not Sold,TRUE,2021-04-25,,
+Car No-615,Brand-N,Not Sold,TRUE,2021-04-30,,
+Car No-616,Brand-O,Not Sold,TRUE,2021-05-09,,
+Car No-617,Brand-I,Not Sold,TRUE,2021-05-08,,
+Car No-618,Brand-K,Not Sold,TRUE,2021-05-23,,
+Car No-619,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-620,Brand-M,Not Sold,FALSE,,,
+Car No-621,Brand-J,Not Sold,TRUE,2021-05-29,,
+Car No-622,Brand-K,Not Sold,TRUE,2021-06-14,,
+Car No-623,Brand-J,Not Sold,TRUE,2021-06-11,,
+Car No-624,Brand-B,Sold,TRUE,2020-08-12,2020-11-13,93
+Car No-625,Brand-I,Not Sold,FALSE,,,
+Car No-626,Brand-D,Sold,TRUE,2020-08-12,2020-11-10,90
+Car No-627,Brand-B,Not Sold,FALSE,,,
+Car No-628,Brand-D,Sold,TRUE,2020-08-17,2020-09-10,24
+Car No-629,Brand-B,Sold,TRUE,2020-09-07,2021-01-19,134
+Car No-630,Brand-B,Sold,TRUE,2020-09-30,2020-10-14,14
+Car No-631,Brand-C,Sold,TRUE,2020-10-10,2021-01-12,94
+Car No-632,Brand-D,Sold,TRUE,2020-10-19,2021-04-22,185
+Car No-633,Brand-D,Sold,FALSE,,2020-11-26,44161
+Car No-634,Brand-B,Sold,TRUE,2020-11-30,2021-03-25,115
+Car No-635,Brand-G,Sold,TRUE,2020-12-11,2021-01-12,32
+Car No-636,Brand-M,Sold,TRUE,2020-12-22,2021-02-26,66
+Car No-637,Brand-J,Sold,TRUE,2021-01-08,2021-05-11,123
+Car No-638,Brand-F,Not Sold,TRUE,2021-01-26,,
+Car No-639,Brand-B,Not Sold,TRUE,2021-02-19,,
+Car No-640,Brand-C,Sold,TRUE,2021-02-26,2021-04-03,36
+Car No-641,Brand-B,Not Sold,TRUE,2021-03-05,,
+Car No-642,Brand-I,Not Sold,TRUE,2021-03-10,,
+Car No-643,Brand-I,Sold,TRUE,2021-03-15,2021-04-01,17
+Car No-644,Brand-B,Not Sold,TRUE,2021-03-19,,
+Car No-645,Brand-B,Sold,TRUE,2021-03-24,2021-05-12,49
+Car No-646,Brand-C,Not Sold,TRUE,2021-03-30,,
+Car No-647,Brand-K,Not Sold,TRUE,2021-04-02,,
+Car No-648,Brand-B,Not Sold,TRUE,2021-04-06,,
+Car No-649,Brand-I,Sold,TRUE,2021-04-10,2021-04-22,12
+Car No-650,Brand-I,Not Sold,TRUE,2021-04-14,,
+Car No-651,Brand-L,Not Sold,TRUE,2021-04-23,,
+Car No-652,Brand-C,Not Sold,TRUE,2021-04-25,,
+Car No-653,Brand-C,Sold,TRUE,2021-04-29,2021-05-29,30
+Car No-654,Brand-I,Not Sold,TRUE,2021-05-07,,
+Car No-655,Brand-K,Not Sold,TRUE,2021-05-06,,
+Car No-656,Brand-I,Not Sold,TRUE,2021-06-04,,
+Car No-657,Brand-B,Not Sold,TRUE,2021-05-19,,
+Car No-658,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-659,Brand-Q,Not Sold,TRUE,2021-06-16,,
+Car No-660,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-661,Brand-C,Not Sold,FALSE,,,
+Car No-662,Brand-H,Sold,TRUE,2020-08-12,2020-09-09,28
+Car No-663,Brand-M,Not Sold,FALSE,,,
+Car No-664,Brand-K,Sold,TRUE,2020-08-12,2021-01-27,168
+Car No-665,Brand-C,Not Sold,FALSE,,,
+Car No-666,Brand-K,Sold,TRUE,2020-09-04,2020-11-27,84
+Car No-667,Brand-D,Sold,TRUE,2020-09-28,2020-12-01,64
+Car No-668,Brand-K,Not Sold,TRUE,2020-10-19,,
+Car No-669,Brand-C,Sold,TRUE,2020-11-19,2021-03-29,130
+Car No-670,Brand-C,Not Sold,TRUE,2020-11-30,,
+Car No-671,Brand-B,Sold,TRUE,2020-12-11,2021-02-26,77
+Car No-672,Brand-B,Sold,TRUE,2020-12-23,2021-01-28,36
+Car No-673,Brand-B,Sold,TRUE,2021-01-08,2021-04-05,87
+Car No-674,Brand-I,Sold,TRUE,2021-01-27,2021-02-27,31
+Car No-675,Brand-B,Not Sold,TRUE,2021-02-19,,
+Car No-676,Brand-Q,Not Sold,TRUE,2021-02-26,,
+Car No-677,Brand-D,Not Sold,TRUE,2021-03-05,,
+Car No-678,Brand-B,Not Sold,TRUE,2021-03-10,,
+Car No-679,Brand-K,Sold,TRUE,2021-03-15,2021-05-21,67
+Car No-680,Brand-B,Not Sold,TRUE,2021-03-19,,
+Car No-681,Brand-O,Sold,TRUE,2021-03-24,2021-05-12,49
+Car No-682,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-683,Brand-J,Not Sold,TRUE,2021-04-02,,
+Car No-684,Brand-B,Not Sold,TRUE,2021-04-06,,
+Car No-685,Brand-B,Not Sold,TRUE,2021-04-10,,
+Car No-686,Brand-I,Not Sold,TRUE,2021-04-15,,
+Car No-687,Brand-B,Not Sold,TRUE,2021-04-25,,
+Car No-688,Brand-I,Not Sold,TRUE,2021-04-27,,
+Car No-689,Brand-I,Not Sold,TRUE,2021-06-15,,
+Car No-690,Brand-J,Not Sold,TRUE,2021-05-04,,
+Car No-691,Brand-B,Sold,TRUE,2021-05-18,2021-05-31,13
+Car No-692,Brand-B,Not Sold,TRUE,2021-05-19,,
+Car No-693,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-694,Brand-Q,Not Sold,TRUE,2021-05-27,,
+Car No-695,Brand-B,Not Sold,TRUE,2021-05-31,,
+Car No-696,Brand-C,Not Sold,FALSE,,,
+Car No-697,Brand-C,Sold,TRUE,2020-08-11,2020-12-31,142
+Car No-698,Brand-C,Not Sold,FALSE,,,
+Car No-699,Brand-C,Sold,TRUE,2020-08-13,2020-09-11,29
+Car No-700,Brand-D,Not Sold,FALSE,,,
+Car No-701,Brand-B,Sold,TRUE,2020-08-14,2020-10-23,70
+Car No-702,Brand-D,Sold,TRUE,2020-09-08,2021-03-31,204
+Car No-703,Brand-D,Not Sold,TRUE,2020-09-30,,
+Car No-704,Brand-D,Sold,TRUE,2020-10-10,2020-12-08,59
+Car No-705,Brand-M,Sold,TRUE,2020-10-20,2021-02-26,129
+Car No-706,Brand-B,Sold,TRUE,2020-11-19,2021-02-24,97
+Car No-707,Brand-K,Sold,TRUE,2020-11-30,2021-02-05,67
+Car No-708,Brand-B,Sold,TRUE,2020-12-11,2021-04-17,127
+Car No-709,Brand-B,Sold,TRUE,2020-12-24,2021-05-31,158
+Car No-710,Brand-J,Sold,TRUE,2021-01-08,2021-01-23,15
+Car No-711,Brand-C,Sold,TRUE,2021-01-28,2021-03-27,58
+Car No-712,Brand-D,Sold,TRUE,2021-02-19,2021-04-11,51
+Car No-713,Brand-M,Not Sold,TRUE,2021-02-27,,
+Car No-714,Brand-D,Sold,TRUE,2021-03-05,2021-04-23,49
+Car No-715,Brand-C,Not Sold,TRUE,2021-03-10,,
+Car No-716,Brand-M,Sold,TRUE,2021-03-15,2021-04-29,45
+Car No-717,Brand-I,Sold,TRUE,2021-03-20,2021-05-22,63
+Car No-718,Brand-C,Sold,TRUE,2021-03-24,2021-04-28,35
+Car No-719,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-720,Brand-G,Not Sold,TRUE,2021-04-02,,
+Car No-721,Brand-B,Not Sold,TRUE,2021-04-06,,
+Car No-722,Brand-K,Sold,TRUE,2021-04-10,2021-05-29,49
+Car No-723,Brand-K,Not Sold,TRUE,2021-04-15,,
+Car No-724,Brand-D,Not Sold,TRUE,2021-04-20,,
+Car No-725,Brand-B,Not Sold,TRUE,2021-04-26,,
+Car No-726,Brand-J,Not Sold,TRUE,2021-04-29,,
+Car No-727,Brand-K,Not Sold,TRUE,2021-05-18,,
+Car No-728,Brand-I,Not Sold,TRUE,2021-05-05,,
+Car No-729,Brand-O,Not Sold,TRUE,2021-06-09,,
+Car No-730,Brand-I,Not Sold,TRUE,2021-06-09,,
+Car No-731,Brand-I,Not Sold,TRUE,2021-05-28,,
+Car No-732,Brand-C,Not Sold,TRUE,2021-06-13,,
+Car No-733,Brand-C,Not Sold,TRUE,2021-05-31,,
+Car No-734,Brand-C,Not Sold,TRUE,2021-06-25,,
+Car No-735,Brand-C,Sold,TRUE,2020-08-12,2020-09-28,47
+Car No-736,Brand-C,Not Sold,FALSE,,,
+Car No-737,Brand-I,Sold,TRUE,2020-08-13,2020-10-31,79
+Car No-738,Brand-I,Not Sold,FALSE,,,
+Car No-739,Brand-C,Sold,TRUE,2020-09-01,2021-04-23,234
+Car No-740,Brand-I,Sold,TRUE,2020-09-02,2020-09-30,28
+Car No-741,Brand-D,Sold,TRUE,2020-09-29,2021-03-15,167
+Car No-742,Brand-B,Sold,TRUE,2020-10-10,2021-02-11,124
+Car No-743,Brand-H,Sold,TRUE,2020-10-20,2020-11-10,21
+Car No-744,Brand-C,Sold,TRUE,2020-11-19,2020-11-28,9
+Car No-745,Brand-I,Sold,TRUE,2020-11-30,2021-02-24,86
+Car No-746,Brand-B,Not Sold,TRUE,2020-12-11,,
+Car No-747,Brand-J,Sold,TRUE,2020-12-24,2021-02-23,61
+Car No-748,Brand-B,Sold,TRUE,2021-01-10,2021-02-26,47
+Car No-749,Brand-I,Sold,TRUE,2021-01-28,2021-03-23,54
+Car No-750,Brand-D,Sold,TRUE,2021-02-19,2021-03-29,38
+Car No-751,Brand-K,Sold,TRUE,2021-02-27,2021-03-31,32
+Car No-752,Brand-I,Not Sold,TRUE,2021-03-05,,
+Car No-753,Brand-B,Sold,TRUE,2021-03-11,2021-04-30,50
+Car No-754,Brand-C,Not Sold,TRUE,2021-03-16,,
+Car No-755,Brand-C,Sold,TRUE,2021-03-24,2021-04-15,22
+Car No-756,Brand-F,Sold,TRUE,2021-03-25,2021-04-23,29
+Car No-757,Brand-B,Sold,TRUE,2021-03-30,2021-04-24,25
+Car No-758,Brand-B,Sold,TRUE,2021-04-02,2021-04-28,26
+Car No-759,Brand-I,Sold,TRUE,2021-04-06,2021-05-26,50
+Car No-760,Brand-C,Not Sold,TRUE,2021-04-10,,
+Car No-761,Brand-B,Not Sold,TRUE,2021-04-15,,
+Car No-762,Brand-D,Not Sold,TRUE,2021-04-21,,
+Car No-763,Brand-I,Not Sold,TRUE,2021-04-30,,
+Car No-764,Brand-B,Not Sold,TRUE,2021-04-28,,
+Car No-765,Brand-I,Not Sold,TRUE,2021-05-17,,
+Car No-766,Brand-D,Not Sold,TRUE,2021-05-07,,
+Car No-767,Brand-F,Not Sold,TRUE,2021-06-04,,
+Car No-768,Brand-Q,Not Sold,TRUE,2021-05-27,,
+Car No-769,Brand-I,Not Sold,TRUE,2021-06-04,,
+Car No-770,Brand-I,Not Sold,TRUE,2021-06-09,,
+Car No-771,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-772,Brand-I,Not Sold,FALSE,,,
+Car No-773,Brand-B,Sold,TRUE,2020-08-11,2020-09-26,46
+Car No-774,Brand-C,Not Sold,FALSE,,,
+Car No-775,Brand-B,Sold,TRUE,2020-08-13,2020-11-27,106
+Car No-776,Brand-B,Not Sold,FALSE,,,
+Car No-777,Brand-C,Sold,TRUE,2020-09-02,2020-11-07,66
+Car No-778,Brand-K,Sold,TRUE,2020-09-08,2020-09-23,15
+Car No-779,Brand-P,Sold,TRUE,2020-09-30,2020-12-02,63
+Car No-780,Brand-I,Sold,TRUE,2020-10-10,2021-04-09,181
+Car No-781,Brand-J,Sold,TRUE,2020-10-20,2020-12-15,56
+Car No-782,Brand-K,Sold,TRUE,2020-11-20,2021-02-09,81
+Car No-783,Brand-C,Sold,TRUE,2020-12-01,2021-01-16,46
+Car No-784,Brand-B,Sold,TRUE,2020-12-11,2021-02-20,71
+Car No-785,Brand-B,Sold,TRUE,2020-12-24,2021-03-13,79
+Car No-786,Brand-B,Sold,TRUE,2021-01-10,2021-01-28,18
+Car No-787,Brand-B,Sold,TRUE,2021-01-28,2021-03-26,57
+Car No-788,Brand-B,Sold,TRUE,2021-02-19,2021-05-17,87
+Car No-789,Brand-D,Sold,TRUE,2021-02-28,2021-05-11,72
+Car No-790,Brand-D,Not Sold,TRUE,2021-03-06,,
+Car No-791,Brand-C,Not Sold,TRUE,2021-03-11,,
+Car No-792,Brand-C,Not Sold,TRUE,2021-03-16,,
+Car No-793,Brand-B,Not Sold,TRUE,2021-03-20,,
+Car No-794,Brand-J,Sold,TRUE,2021-03-25,2021-05-24,60
+Car No-795,Brand-C,Not Sold,TRUE,2021-03-30,,
+Car No-796,Brand-B,Not Sold,TRUE,2021-04-02,,
+Car No-797,Brand-B,Sold,TRUE,2021-04-07,2021-04-28,21
+Car No-798,Brand-L,Sold,TRUE,2021-04-10,2021-05-04,24
+Car No-799,Brand-B,Not Sold,TRUE,2021-04-15,,
+Car No-800,Brand-K,Sold,TRUE,2021-04-20,2021-05-22,32
+Car No-801,Brand-I,Not Sold,TRUE,2021-04-26,,
+Car No-802,Brand-B,Not Sold,TRUE,2021-05-03,,
+Car No-803,Brand-I,Not Sold,TRUE,2021-05-06,,
+Car No-804,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-805,Brand-C,Not Sold,TRUE,2021-05-21,,
+Car No-806,Brand-D,Not Sold,TRUE,2021-05-21,,
+Car No-807,Brand-B,Not Sold,TRUE,2021-06-09,,
+Car No-808,Brand-L,Not Sold,FALSE,,,
+Car No-809,Brand-J,Not Sold,TRUE,2021-06-20,,
+Car No-810,Brand-K,Not Sold,FALSE,,,
+Car No-811,Brand-B,Sold,TRUE,2020-08-12,2021-01-25,166
+Car No-812,Brand-B,Not Sold,FALSE,,,
+Car No-813,Brand-C,Sold,TRUE,2020-08-13,2021-05-24,284
+Car No-814,Brand-L,Not Sold,FALSE,,,
+Car No-815,Brand-J,Not Sold,TRUE,2020-08-27,,
+Car No-816,Brand-D,Not Sold,TRUE,2020-09-08,,
+Car No-817,Brand-B,Not Sold,TRUE,2020-09-30,,
+Car No-818,Brand-K,Sold,TRUE,2020-10-10,2020-10-29,19
+Car No-819,Brand-I,Sold,TRUE,2020-10-20,2021-02-04,107
+Car No-820,Brand-D,Sold,TRUE,2020-11-20,2020-12-31,41
+Car No-821,Brand-C,Sold,TRUE,2020-12-01,2021-01-26,56
+Car No-822,Brand-L,Sold,TRUE,2020-12-12,2021-04-10,119
+Car No-823,Brand-B,Sold,TRUE,2020-12-24,2021-04-10,107
+Car No-824,Brand-K,Not Sold,TRUE,2021-01-10,,
+Car No-825,Brand-O,Sold,TRUE,2021-01-30,2021-03-10,39
+Car No-826,Brand-C,Sold,TRUE,2021-02-21,2021-03-17,24
+Car No-827,Brand-B,Not Sold,TRUE,2021-02-28,,
+Car No-828,Brand-C,Not Sold,TRUE,2021-03-06,,
+Car No-829,Brand-B,Not Sold,TRUE,2021-03-11,,
+Car No-830,Brand-I,Sold,TRUE,2021-03-16,2021-05-04,49
+Car No-831,Brand-C,Not Sold,TRUE,2021-03-20,,
+Car No-832,Brand-I,Sold,TRUE,2021-03-25,2021-04-27,33
+Car No-833,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-834,Brand-B,Not Sold,TRUE,2021-04-02,,
+Car No-835,Brand-I,Not Sold,TRUE,2021-04-07,,
+Car No-836,Brand-B,Not Sold,TRUE,2021-04-10,,
+Car No-837,Brand-I,Sold,TRUE,2021-04-15,2021-06-15,61
+Car No-838,Brand-D,Not Sold,TRUE,2021-04-20,,
+Car No-839,Brand-I,Not Sold,TRUE,2021-04-26,,
+Car No-840,Brand-K,Sold,TRUE,2021-04-30,2021-05-26,26
+Car No-841,Brand-J,Not Sold,TRUE,2021-05-06,,
+Car No-842,Brand-G,Not Sold,TRUE,2021-05-09,,
+Car No-843,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-844,Brand-B,Not Sold,TRUE,2021-05-23,,
+Car No-845,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-846,Brand-I,Not Sold,TRUE,2021-06-09,,
+Car No-847,Brand-B,Not Sold,FALSE,,,
+Car No-848,Brand-G,Not Sold,FALSE,,,
+Car No-849,Brand-B,Sold,TRUE,2020-08-11,2021-03-18,219
+Car No-850,Brand-B,Not Sold,FALSE,,,
+Car No-851,Brand-D,Sold,TRUE,2020-08-13,2020-10-24,72
+Car No-852,Brand-B,Not Sold,FALSE,,,
+Car No-853,Brand-C,Sold,TRUE,2020-09-02,2021-01-29,149
+Car No-854,Brand-C,Sold,TRUE,2020-09-09,2020-10-17,38
+Car No-855,Brand-O,Sold,TRUE,2020-09-29,2020-11-27,59
+Car No-856,Brand-B,Sold,TRUE,2020-10-10,2021-05-21,223
+Car No-857,Brand-D,Sold,TRUE,2020-10-20,2021-01-27,99
+Car No-858,Brand-B,Sold,TRUE,2020-11-20,2021-05-28,189
+Car No-859,Brand-B,Not Sold,TRUE,2020-12-01,,
+Car No-860,Brand-D,Not Sold,TRUE,2020-12-12,,
+Car No-861,Brand-D,Sold,TRUE,2020-12-28,2021-03-13,75
+Car No-862,Brand-K,Not Sold,TRUE,2021-01-11,,
+Car No-863,Brand-C,Sold,TRUE,2021-01-30,2021-02-27,28
+Car No-864,Brand-D,Not Sold,TRUE,2021-02-21,,
+Car No-865,Brand-B,Not Sold,TRUE,2021-02-28,,
+Car No-866,Brand-C,Sold,TRUE,2021-03-06,2021-04-14,39
+Car No-867,Brand-C,Not Sold,TRUE,2021-03-11,,
+Car No-868,Brand-C,Sold,TRUE,2021-03-16,2021-04-25,40
+Car No-869,Brand-I,Sold,TRUE,2021-03-20,2021-04-09,20
+Car No-870,Brand-B,Not Sold,TRUE,2021-03-25,,
+Car No-871,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-872,Brand-B,Not Sold,TRUE,2021-04-02,,
+Car No-873,Brand-O,Sold,TRUE,2021-04-07,2021-05-10,33
+Car No-874,Brand-C,Sold,TRUE,2021-04-10,2021-05-20,40
+Car No-875,Brand-I,Not Sold,TRUE,2021-04-15,,
+Car No-876,Brand-L,Not Sold,TRUE,2021-04-21,,
+Car No-877,Brand-I,Not Sold,TRUE,2021-04-26,,
+Car No-878,Brand-I,Not Sold,TRUE,2021-04-29,,
+Car No-879,Brand-I,Not Sold,TRUE,2021-05-10,,
+Car No-880,Brand-I,Not Sold,TRUE,2021-05-10,,
+Car No-881,Brand-B,Not Sold,TRUE,2021-05-18,,
+Car No-882,Brand-B,Not Sold,TRUE,2021-05-26,,
+Car No-883,Brand-I,Not Sold,FALSE,,,
+Car No-884,Brand-D,Not Sold,TRUE,2021-06-09,,
+Car No-885,Brand-J,Not Sold,TRUE,2021-06-16,,
+Car No-886,Brand-C,Not Sold,FALSE,,,
+Car No-887,Brand-B,Sold,TRUE,2020-08-11,2021-03-18,219
+Car No-888,Brand-B,Not Sold,FALSE,,,
+Car No-889,Brand-B,Sold,TRUE,2020-08-13,2020-09-08,26
+Car No-890,Brand-I,Not Sold,FALSE,,,
+Car No-891,Brand-J,Sold,TRUE,2020-09-03,2021-04-29,238
+Car No-892,Brand-C,Sold,TRUE,2020-09-17,2021-02-26,162
+Car No-893,Brand-J,Sold,TRUE,2020-09-30,2020-12-09,70
+Car No-894,Brand-D,Sold,TRUE,2020-10-12,2021-04-14,184
+Car No-895,Brand-K,Sold,TRUE,2020-10-21,2020-11-25,35
+Car No-896,Brand-I,Sold,TRUE,2020-11-20,2021-02-23,95
+Car No-897,Brand-I,Sold,TRUE,2020-12-02,2021-05-08,157
+Car No-898,Brand-D,Sold,TRUE,2020-12-12,2021-03-27,105
+Car No-899,Brand-I,Sold,TRUE,2020-12-28,2021-01-08,11
+Car No-900,Brand-B,Sold,TRUE,2021-01-11,2021-03-21,69
+Car No-901,Brand-D,Sold,TRUE,2021-02-01,2021-04-02,60
+Car No-902,Brand-I,Not Sold,TRUE,2021-02-21,,
+Car No-903,Brand-C,Sold,TRUE,2021-02-28,2021-03-20,20
+Car No-904,Brand-C,Not Sold,TRUE,2021-03-06,,
+Car No-905,Brand-B,Sold,TRUE,2021-03-11,2021-04-30,50
+Car No-906,Brand-B,Not Sold,TRUE,2021-03-16,,
+Car No-907,Brand-C,Not Sold,TRUE,2021-03-20,,
+Car No-908,Brand-C,Not Sold,TRUE,2021-03-25,,
+Car No-909,Brand-I,Sold,TRUE,2021-03-30,2021-04-12,13
+Car No-910,Brand-B,Not Sold,TRUE,2021-04-02,,
+Car No-911,Brand-B,Sold,TRUE,2021-04-07,2021-04-28,21
+Car No-912,Brand-B,Not Sold,TRUE,2021-04-10,,
+Car No-913,Brand-D,Not Sold,TRUE,2021-04-15,,
+Car No-914,Brand-D,Not Sold,TRUE,2021-04-21,,
+Car No-915,Brand-I,Sold,TRUE,2021-04-26,2021-05-19,23
+Car No-916,Brand-I,Not Sold,TRUE,2021-05-08,,
+Car No-917,Brand-C,Not Sold,TRUE,2021-05-05,,
+Car No-918,Brand-D,Not Sold,TRUE,2021-05-10,,
+Car No-919,Brand-C,Not Sold,TRUE,2021-05-23,,
+Car No-920,Brand-K,Not Sold,TRUE,2021-05-21,,
+Car No-921,Brand-K,Not Sold,TRUE,2021-05-26,,
+Car No-922,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-923,Brand-A,Not Sold,FALSE,,,
+Car No-924,Brand-I,Not Sold,FALSE,,,
+Car No-925,Brand-L,Sold,TRUE,2020-08-11,2020-09-30,50
+Car No-926,Brand-B,Not Sold,FALSE,,,
+Car No-927,Brand-K,Sold,TRUE,2020-08-13,2020-09-10,28
+Car No-928,Brand-K,Not Sold,FALSE,,,
+Car No-929,Brand-K,Sold,TRUE,2020-08-21,2020-09-23,33
+Car No-930,Brand-B,Sold,TRUE,2020-09-08,2020-12-12,95
+Car No-931,Brand-L,Sold,TRUE,2020-10-01,2020-10-20,19
+Car No-932,Brand-B,Sold,TRUE,2020-10-12,2020-11-24,43
+Car No-933,Brand-B,Sold,TRUE,2020-10-21,2020-11-30,40
+Car No-934,Brand-I,Sold,TRUE,2020-11-20,2020-12-31,41
+Car No-935,Brand-C,Not Sold,TRUE,2020-12-02,,
+Car No-936,Brand-B,Sold,TRUE,2020-12-15,2021-04-03,109
+Car No-937,Brand-C,Sold,TRUE,2020-12-30,2021-05-12,133
+Car No-938,Brand-B,Sold,TRUE,2021-01-12,2021-04-23,101
+Car No-939,Brand-L,Sold,TRUE,2021-02-01,2021-04-26,84
+Car No-940,Brand-B,Sold,TRUE,2021-02-22,2021-03-26,32
+Car No-941,Brand-C,Not Sold,TRUE,2021-02-28,,
+Car No-942,Brand-B,Sold,TRUE,2021-03-06,2021-03-20,14
+Car No-943,Brand-M,Sold,TRUE,2021-03-11,2021-04-17,37
+Car No-944,Brand-B,Sold,TRUE,2021-03-16,2021-05-08,53
+Car No-945,Brand-K,Sold,TRUE,2021-03-20,2021-04-30,41
+Car No-946,Brand-C,Not Sold,TRUE,2021-03-25,,
+Car No-947,Brand-C,Not Sold,TRUE,2021-03-30,,
+Car No-948,Brand-B,Not Sold,TRUE,2021-04-02,,
+Car No-949,Brand-B,Sold,TRUE,2021-04-07,2021-06-18,72
+Car No-950,Brand-I,Sold,TRUE,2021-04-13,2021-04-26,13
+Car No-951,Brand-L,Not Sold,TRUE,2021-04-15,,
+Car No-952,Brand-J,Sold,TRUE,2021-04-21,2021-05-30,39
+Car No-953,Brand-C,Not Sold,TRUE,2021-04-26,,
+Car No-954,Brand-K,Not Sold,TRUE,2021-05-08,,
+Car No-955,Brand-C,Not Sold,TRUE,2021-05-06,,
+Car No-956,Brand-I,Not Sold,TRUE,2021-05-10,,
+Car No-957,Brand-B,Not Sold,TRUE,2021-05-19,,
+Car No-958,Brand-K,Not Sold,TRUE,2021-05-24,,
+Car No-959,Brand-C,Not Sold,TRUE,2021-05-26,,
+Car No-960,Brand-C,Not Sold,TRUE,2021-06-09,,
+Car No-961,Brand-C,Not Sold,FALSE,,,
+Car No-962,Brand-K,Not Sold,FALSE,,,
+Car No-963,Brand-D,Sold,TRUE,2020-08-11,2020-09-02,22
+Car No-964,Brand-I,Not Sold,FALSE,,,
+Car No-965,Brand-C,Sold,TRUE,2020-08-13,2020-09-25,43
+Car No-966,Brand-B,Not Sold,FALSE,,,
+Car No-967,Brand-B,Sold,TRUE,2020-09-08,2020-12-08,91
+Car No-968,Brand-C,Sold,TRUE,2020-09-09,2021-03-03,175
+Car No-969,Brand-D,Sold,TRUE,2020-10-01,2021-03-16,166
+Car No-970,Brand-D,Not Sold,TRUE,2020-10-14,,
+Car No-971,Brand-C,Sold,TRUE,2020-10-21,2020-12-24,64
+Car No-972,Brand-B,Not Sold,TRUE,2020-11-20,,
+Car No-973,Brand-C,Sold,TRUE,2020-12-02,2021-01-26,55
+Car No-974,Brand-B,Sold,TRUE,2020-12-15,2021-03-31,106
+Car No-975,Brand-K,Sold,TRUE,2020-12-28,2021-06-16,170
+Car No-976,Brand-Q,Sold,TRUE,2021-01-12,2021-05-26,134
+Car No-977,Brand-D,Sold,TRUE,2021-02-02,2021-02-26,24
+Car No-978,Brand-D,Not Sold,TRUE,2021-02-22,,
+Car No-979,Brand-B,Not Sold,TRUE,2021-02-28,,
+Car No-980,Brand-B,Not Sold,TRUE,2021-03-06,,
+Car No-981,Brand-M,Not Sold,TRUE,2021-03-11,,
+Car No-982,Brand-B,Sold,TRUE,2021-03-16,2021-05-19,64
+Car No-983,Brand-D,Not Sold,TRUE,2021-03-20,,
+Car No-984,Brand-B,Not Sold,TRUE,2021-03-25,,
+Car No-985,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-986,Brand-K,Not Sold,TRUE,2021-04-03,,
+Car No-987,Brand-I,Sold,TRUE,2021-04-07,2021-04-30,23
+Car No-988,Brand-J,Sold,TRUE,2021-04-12,2021-05-22,40
+Car No-989,Brand-C,Not Sold,TRUE,2021-04-17,,
+Car No-990,Brand-C,Not Sold,TRUE,2021-04-23,,
+Car No-991,Brand-D,Not Sold,TRUE,2021-04-27,,
+Car No-992,Brand-J,Not Sold,TRUE,2021-05-03,,
+Car No-993,Brand-I,Sold,TRUE,2021-05-04,2021-05-22,18
+Car No-994,Brand-C,Not Sold,TRUE,2021-05-10,,
+Car No-995,Brand-B,Not Sold,TRUE,2021-05-19,,
+Car No-996,Brand-I,Not Sold,TRUE,2021-05-23,,
+Car No-997,Brand-K,Not Sold,FALSE,,,
+Car No-998,Brand-F,Not Sold,TRUE,2021-06-01,,
+Car No-999,Brand-D,Not Sold,FALSE,,,
+Car No-1000,Brand-I,Not Sold,FALSE,,,
+Car No-1001,Brand-C,Sold,TRUE,2020-08-11,2020-11-25,106
+Car No-1002,Brand-J,Not Sold,FALSE,,,
+Car No-1003,Brand-C,Sold,TRUE,2020-08-13,2021-03-12,211
+Car No-1004,Brand-B,Not Sold,FALSE,,,
+Car No-1005,Brand-K,Sold,TRUE,2020-09-03,2020-12-22,110
+Car No-1006,Brand-D,Sold,TRUE,2020-09-09,2020-11-02,54
+Car No-1007,Brand-B,Sold,TRUE,2020-10-01,2020-10-27,26
+Car No-1008,Brand-B,Sold,TRUE,2020-10-13,2020-11-09,27
+Car No-1009,Brand-B,Sold,TRUE,2020-10-22,2020-11-07,16
+Car No-1010,Brand-D,Sold,TRUE,2020-11-21,2021-03-31,130
+Car No-1011,Brand-B,Sold,TRUE,2020-12-03,2021-04-24,142
+Car No-1012,Brand-B,Not Sold,TRUE,2020-12-15,,
+Car No-1013,Brand-C,Sold,TRUE,2020-12-28,2021-04-19,112
+Car No-1014,Brand-I,Sold,TRUE,2021-01-12,2021-02-26,45
+Car No-1015,Brand-I,Sold,TRUE,2021-02-06,2021-04-12,65
+Car No-1016,Brand-B,Sold,TRUE,2021-02-22,2021-04-30,67
+Car No-1017,Brand-C,Sold,TRUE,2021-03-02,2021-05-29,88
+Car No-1018,Brand-C,Not Sold,TRUE,2021-03-06,,
+Car No-1019,Brand-G,Sold,TRUE,2021-03-11,2021-04-10,30
+Car No-1020,Brand-L,Not Sold,TRUE,2021-03-16,,
+Car No-1021,Brand-B,Not Sold,TRUE,2021-03-20,,
+Car No-1022,Brand-D,Not Sold,TRUE,2021-03-25,,
+Car No-1023,Brand-B,Sold,TRUE,2021-03-30,2021-05-11,42
+Car No-1024,Brand-C,Sold,TRUE,2021-04-03,2021-04-23,20
+Car No-1025,Brand-C,Sold,TRUE,2021-04-07,2021-05-27,50
+Car No-1026,Brand-B,Not Sold,TRUE,2021-04-12,,
+Car No-1027,Brand-B,Sold,TRUE,2021-04-16,2021-04-29,13
+Car No-1028,Brand-B,Sold,TRUE,2021-04-21,2021-05-27,36
+Car No-1029,Brand-C,Not Sold,TRUE,2021-04-26,,
+Car No-1030,Brand-C,Not Sold,TRUE,2021-05-19,,
+Car No-1031,Brand-L,Sold,TRUE,2021-05-04,2021-05-29,25
+Car No-1032,Brand-K,Not Sold,TRUE,2021-05-10,,
+Car No-1033,Brand-B,Not Sold,TRUE,2021-05-16,,
+Car No-1034,Brand-C,Not Sold,TRUE,2021-05-27,,
+Car No-1035,Brand-C,Not Sold,TRUE,2021-05-24,,
+Car No-1036,Brand-D,Not Sold,TRUE,2021-06-14,,
+Car No-1037,Brand-K,Not Sold,TRUE,2021-06-22,,
+Car No-1038,Brand-B,Not Sold,FALSE,,,
+Car No-1039,Brand-C,Sold,TRUE,2020-08-11,2020-09-26,46
+Car No-1040,Brand-B,Not Sold,FALSE,,,
+Car No-1041,Brand-D,Not Sold,FALSE,,,
+Car No-1042,Brand-B,Sold,TRUE,2020-08-28,2020-10-13,46
+Car No-1043,Brand-B,Sold,TRUE,2020-09-09,2021-02-27,171
+Car No-1044,Brand-I,Sold,TRUE,2020-10-01,2020-12-30,90
+Car No-1045,Brand-B,Sold,TRUE,2020-10-14,2020-12-10,57
+Car No-1046,Brand-B,Sold,TRUE,2020-10-22,2020-12-22,61
+Car No-1047,Brand-K,Sold,TRUE,2020-11-21,2021-03-16,115
+Car No-1048,Brand-B,Sold,TRUE,2020-12-04,2021-03-26,112
+Car No-1049,Brand-I,Sold,TRUE,2020-12-15,2021-02-24,71
+Car No-1050,Brand-B,Not Sold,TRUE,2020-12-30,,
+Car No-1051,Brand-C,Not Sold,TRUE,2021-01-12,,
+Car No-1052,Brand-B,Sold,TRUE,2021-02-09,2021-02-28,19
+Car No-1053,Brand-C,Sold,TRUE,2021-02-23,2021-04-20,56
+Car No-1054,Brand-I,Sold,TRUE,2021-03-02,2021-03-14,12
+Car No-1055,Brand-B,Sold,TRUE,2021-03-07,2021-05-08,62
+Car No-1056,Brand-B,Not Sold,TRUE,2021-03-12,,
+Car No-1057,Brand-I,Sold,TRUE,2021-03-17,2021-04-13,27
+Car No-1058,Brand-I,Sold,TRUE,2021-03-20,2021-04-08,19
+Car No-1059,Brand-M,Sold,TRUE,2021-03-25,2021-05-26,62
+Car No-1060,Brand-B,Sold,TRUE,2021-03-30,2021-05-21,52
+Car No-1061,Brand-B,Not Sold,TRUE,2021-04-03,,
+Car No-1062,Brand-B,Not Sold,TRUE,2021-04-07,,
+Car No-1063,Brand-B,Not Sold,TRUE,2021-04-12,,
+Car No-1064,Brand-B,Not Sold,TRUE,2021-04-17,,
+Car No-1065,Brand-B,Not Sold,TRUE,2021-04-22,,
+Car No-1066,Brand-B,Not Sold,TRUE,2021-04-26,,
+Car No-1067,Brand-C,Sold,TRUE,2021-04-27,2021-05-31,34
+Car No-1068,Brand-B,Not Sold,TRUE,2021-05-06,,
+Car No-1069,Brand-B,Not Sold,TRUE,2021-05-10,,
+Car No-1070,Brand-B,Not Sold,TRUE,2021-05-16,,
+Car No-1071,Brand-D,Not Sold,TRUE,2021-05-21,,
+Car No-1072,Brand-B,Not Sold,TRUE,2021-05-24,,
+Car No-1073,Brand-I,Not Sold,TRUE,2021-06-20,,
+Car No-1074,Brand-A,Not Sold,FALSE,,,
+Car No-1075,Brand-I,Not Sold,FALSE,,,
+Car No-1076,Brand-B,Sold,TRUE,2020-08-11,2020-11-10,91
+Car No-1077,Brand-B,Not Sold,TRUE,2021-06-22,,
+Car No-1078,Brand-I,Sold,TRUE,2020-08-13,2020-11-10,89
+Car No-1079,Brand-B,Not Sold,FALSE,,,
+Car No-1080,Brand-B,Sold,TRUE,2020-08-19,2020-11-30,103
+Car No-1081,Brand-B,Sold,TRUE,2020-09-10,2020-10-07,27
+Car No-1082,Brand-K,Sold,TRUE,2020-10-01,2021-01-16,107
+Car No-1083,Brand-B,Sold,TRUE,2020-10-14,2021-03-03,140
+Car No-1084,Brand-C,Sold,TRUE,2020-10-22,2020-12-29,68
+Car No-1085,Brand-M,Sold,TRUE,2020-11-24,2021-01-30,67
+Car No-1086,Brand-B,Sold,TRUE,2020-12-04,2021-06-03,181
+Car No-1087,Brand-D,Sold,FALSE,,2020-12-21,44186
+Car No-1088,Brand-C,Sold,TRUE,2020-12-30,2021-04-17,108
+Car No-1089,Brand-I,Sold,TRUE,2021-01-13,2021-02-02,20
+Car No-1090,Brand-J,Sold,TRUE,2021-02-06,2021-02-27,21
+Car No-1091,Brand-I,Not Sold,TRUE,2021-02-23,,
+Car No-1092,Brand-B,Sold,TRUE,2021-03-02,2021-04-16,45
+Car No-1093,Brand-C,Sold,TRUE,2021-03-07,2021-05-21,75
+Car No-1094,Brand-C,Sold,TRUE,2021-03-12,2021-05-07,56
+Car No-1095,Brand-I,Sold,TRUE,2021-03-17,2021-03-31,14
+Car No-1096,Brand-B,Sold,TRUE,2021-03-22,2021-04-17,26
+Car No-1097,Brand-C,Not Sold,TRUE,2021-03-25,,
+Car No-1098,Brand-B,Sold,TRUE,2021-03-30,2021-04-23,24
+Car No-1099,Brand-B,Not Sold,TRUE,2021-04-03,,
+Car No-1100,Brand-D,Not Sold,TRUE,2021-04-07,,
+Car No-1101,Brand-B,Not Sold,TRUE,2021-04-12,,
+Car No-1102,Brand-I,Sold,TRUE,2021-04-16,2021-04-29,13
+Car No-1103,Brand-B,Not Sold,TRUE,2021-04-21,,
+Car No-1104,Brand-B,Not Sold,TRUE,2021-05-01,,
+Car No-1105,Brand-C,Sold,TRUE,2021-05-06,2021-05-29,23
+Car No-1106,Brand-B,Not Sold,TRUE,2021-05-03,,
+Car No-1107,Brand-L,Not Sold,TRUE,2021-05-10,,
+Car No-1108,Brand-A,Not Sold,TRUE,2021-05-16,,
+Car No-1109,Brand-B,Not Sold,TRUE,2021-05-21,,
+Car No-1110,Brand-K,Not Sold,TRUE,2021-05-25,,
+Car No-1111,Brand-I,Not Sold,TRUE,2021-06-19,,
+Car No-1112,Brand-L,Not Sold,TRUE,2021-06-23,,
+Car No-1113,Brand-I,Not Sold,FALSE,,,
+Car No-1114,Brand-B,Sold,TRUE,2020-08-11,2020-09-04,24
+Car No-1115,Brand-C,Not Sold,FALSE,,,
+Car No-1116,Brand-D,Sold,TRUE,2020-08-13,2021-01-23,163
+Car No-1117,Brand-B,Not Sold,FALSE,,,
+Car No-1118,Brand-B,Sold,TRUE,2020-09-01,2021-03-03,183
+Car No-1119,Brand-B,Sold,TRUE,2020-09-15,2020-11-07,53
+Car No-1120,Brand-B,Sold,TRUE,2020-10-01,2021-03-23,173
+Car No-1121,Brand-D,Sold,TRUE,2020-10-13,2021-05-08,207
+Car No-1122,Brand-H,Sold,TRUE,2020-10-22,2020-11-07,16
+Car No-1123,Brand-C,Not Sold,TRUE,2020-11-24,,
+Car No-1124,Brand-C,Sold,TRUE,2020-12-03,2021-04-22,140
+Car No-1125,Brand-B,Sold,TRUE,2020-12-15,2021-04-29,135
+Car No-1126,Brand-B,Sold,TRUE,2020-12-30,2021-02-26,58
+Car No-1127,Brand-B,Not Sold,TRUE,2021-01-14,,
+Car No-1128,Brand-B,Sold,TRUE,2021-02-06,2021-03-09,31
+Car No-1129,Brand-B,Sold,TRUE,2021-02-23,2021-04-16,52
+Car No-1130,Brand-D,Not Sold,TRUE,2021-03-02,,
+Car No-1131,Brand-C,Not Sold,TRUE,2021-03-08,,
+Car No-1132,Brand-D,Sold,TRUE,2021-03-12,2021-04-22,41
+Car No-1133,Brand-J,Not Sold,TRUE,2021-03-17,,
+Car No-1134,Brand-I,Not Sold,TRUE,2021-03-22,,
+Car No-1135,Brand-B,Not Sold,TRUE,2021-03-26,,
+Car No-1136,Brand-B,Not Sold,TRUE,2021-03-30,,
+Car No-1137,Brand-K,Sold,TRUE,2021-04-03,2021-04-19,16
+Car No-1138,Brand-B,Not Sold,TRUE,2021-04-07,,
+Car No-1139,Brand-I,Sold,TRUE,2021-04-13,2021-05-18,35
+Car No-1140,Brand-B,Not Sold,TRUE,2021-04-16,,
+Car No-1141,Brand-I,Not Sold,TRUE,2021-04-25,,
+Car No-1142,Brand-B,Not Sold,TRUE,2021-04-30,,
+Car No-1143,Brand-C,Not Sold,TRUE,2021-04-29,,
+Car No-1144,Brand-B,Not Sold,TRUE,2021-05-03,,
+Car No-1145,Brand-G,Not Sold,TRUE,2021-05-10,,
+Car No-1146,Brand-K,Not Sold,TRUE,2021-05-31,,
+Car No-1147,Brand-G,Not Sold,TRUE,2021-06-04,,
+Car No-1148,Brand-J,Not Sold,TRUE,2021-06-15,,
+Car No-1149,Brand-C,Not Sold,TRUE,2021-06-18,,
+Car No-1150,Brand-J,Not Sold,FALSE,,,
+Car No-1151,Brand-K,Sold,TRUE,2020-08-12,2020-09-25,44
+Car No-1152,Brand-C,Not Sold,FALSE,,,
+Car No-1153,Brand-B,Sold,TRUE,2020-08-14,2020-12-31,139
+Car No-1154,Brand-C,Not Sold,FALSE,,,
+Car No-1155,Brand-B,Sold,TRUE,2020-08-28,2020-10-17,50
+Car No-1156,Brand-C,Sold,TRUE,2020-09-11,2020-10-06,25
+Car No-1157,Brand-C,Sold,TRUE,2020-10-03,2021-01-30,119
+Car No-1158,Brand-B,Sold,TRUE,2020-10-20,2021-01-27,99
+Car No-1159,Brand-K,Sold,TRUE,2020-10-23,2020-12-09,47
+Car No-1160,Brand-L,Sold,TRUE,2020-11-24,2021-02-20,88
+Car No-1161,Brand-I,Not Sold,TRUE,2020-12-04,,
+Car No-1162,Brand-N,Sold,TRUE,2020-12-15,2020-12-28,13
+Car No-1163,Brand-I,Sold,TRUE,2020-12-31,2021-01-29,29
+Car No-1164,Brand-O,Not Sold,TRUE,2021-01-14,,
+Car No-1165,Brand-J,Not Sold,TRUE,2021-02-24,,
+Car No-1166,Brand-B,Not Sold,TRUE,2021-03-02,,
+Car No-1167,Brand-C,Not Sold,TRUE,2021-03-08,,
+Car No-1168,Brand-B,Not Sold,TRUE,2021-03-12,,
+Car No-1169,Brand-I,Sold,TRUE,2021-03-17,2021-04-01,15
+Car No-1170,Brand-D,Not Sold,TRUE,2021-03-22,,
+Car No-1171,Brand-B,Sold,TRUE,2021-03-26,2021-05-12,47
+Car No-1172,Brand-C,Sold,TRUE,2021-03-31,2021-05-22,52
+Car No-1173,Brand-I,Sold,TRUE,2021-04-03,2021-04-20,17
+Car No-1174,Brand-G,Sold,FALSE,,2021-04-26,44312
+Car No-1175,Brand-B,Not Sold,TRUE,2021-04-12,,
+Car No-1176,Brand-B,Not Sold,TRUE,2021-04-16,,
+Car No-1177,Brand-C,Not Sold,TRUE,2021-04-22,,
+Car No-1178,Brand-B,Not Sold,TRUE,2021-04-28,,
+Car No-1179,Brand-C,Sold,TRUE,2021-05-04,2021-05-20,16
+Car No-1180,Brand-I,Not Sold,TRUE,2021-05-19,,
+Car No-1181,Brand-D,Not Sold,TRUE,2021-05-16,,
+Car No-1182,Brand-C,Not Sold,TRUE,2021-05-24,,
+Car No-1183,Brand-B,Not Sold,FALSE,,,
+Car No-1184,Brand-I,Not Sold,TRUE,2021-05-31,,
+Car No-1185,Brand-I,Not Sold,FALSE,,,
+Car No-1186,Brand-I,Not Sold,TRUE,2021-06-17,,
+Car No-1187,Brand-I,Not Sold,FALSE,,,
+Car No-1188,Brand-C,Sold,TRUE,2020-08-11,2020-12-28,139
+Car No-1189,Brand-C,Not Sold,FALSE,,,
+Car No-1190,Brand-B,Sold,TRUE,2020-08-13,2020-10-02,50
+Car No-1191,Brand-B,Not Sold,FALSE,,,
+Car No-1192,Brand-D,Sold,TRUE,2020-08-21,2020-11-24,95
+Car No-1193,Brand-B,Sold,TRUE,2020-09-18,2021-02-10,145
+Car No-1194,Brand-I,Sold,TRUE,2020-10-05,2020-12-20,76
+Car No-1195,Brand-B,Sold,TRUE,2020-10-13,2021-01-30,109
+Car No-1196,Brand-D,Not Sold,TRUE,2020-10-25,,
+Car No-1197,Brand-D,Sold,TRUE,2020-11-24,2021-05-25,182
+Car No-1198,Brand-B,Sold,TRUE,2020-12-04,2021-04-28,145
+Car No-1199,Brand-B,Not Sold,TRUE,2020-12-15,,
+Car No-1200,Brand-C,Sold,TRUE,2020-12-31,2021-04-08,98
+Car No-1201,Brand-I,Sold,TRUE,2021-01-14,2021-04-10,86
+Car No-1202,Brand-B,Sold,TRUE,2021-02-06,2021-04-28,81
+Car No-1203,Brand-C,Sold,TRUE,2021-02-23,2021-04-22,58
+Car No-1204,Brand-I,Not Sold,TRUE,2021-03-02,,
+Car No-1205,Brand-K,Sold,TRUE,2021-03-06,2021-04-20,45
+Car No-1206,Brand-F,Sold,TRUE,2021-03-12,2021-03-31,19
+Car No-1207,Brand-F,Not Sold,TRUE,2021-03-17,,
+Car No-1208,Brand-I,Sold,TRUE,2021-03-22,2021-04-22,31
+Car No-1209,Brand-I,Not Sold,TRUE,2021-03-26,,
+Car No-1210,Brand-B,Sold,TRUE,2021-03-31,2021-04-23,23
+Car No-1211,Brand-B,Not Sold,TRUE,2021-04-03,,
+Car No-1212,Brand-D,Not Sold,TRUE,2021-04-08,,
+Car No-1213,Brand-J,Not Sold,TRUE,2021-04-12,,
+Car No-1214,Brand-C,Not Sold,TRUE,2021-04-16,,
+Car No-1215,Brand-C,Not Sold,TRUE,2021-04-22,,
+Car No-1216,Brand-F,Sold,TRUE,2021-04-28,2021-05-21,23
+Car No-1217,Brand-C,Not Sold,TRUE,2021-05-01,,
+Car No-1218,Brand-I,Not Sold,TRUE,2021-05-26,,
+Car No-1219,Brand-K,Not Sold,TRUE,2021-05-11,,
+Car No-1220,Brand-J,Not Sold,TRUE,2021-05-28,,
+Car No-1221,Brand-B,Not Sold,TRUE,2021-06-18,,
+Car No-1222,Brand-D,Not Sold,TRUE,2021-06-09,,
+Car No-1223,Brand-L,Not Sold,TRUE,2021-06-09,,
+Car No-1224,Brand-C,Not Sold,FALSE,,,
+Car No-1225,Brand-B,Not Sold,FALSE,,,
+Car No-1226,Brand-E,Sold,TRUE,2020-08-11,2020-08-27,16
+Car No-1227,Brand-M,Not Sold,FALSE,,,
+Car No-1228,Brand-B,Sold,TRUE,2020-08-13,2020-09-15,33
+Car No-1229,Brand-B,Not Sold,FALSE,,,
+Car No-1230,Brand-C,Sold,TRUE,2020-08-21,2021-01-12,144
+Car No-1231,Brand-E,Sold,TRUE,2020-09-16,2020-12-10,85
+Car No-1232,Brand-K,Sold,TRUE,2020-10-03,2020-10-28,25
+Car No-1233,Brand-B,Sold,TRUE,2020-10-16,2021-01-26,102
+Car No-1234,Brand-B,Sold,TRUE,2020-10-23,2021-03-17,145
+Car No-1235,Brand-B,Not Sold,TRUE,2020-11-24,,
+Car No-1236,Brand-I,Sold,TRUE,2020-12-05,2020-12-21,16
+Car No-1237,Brand-B,Not Sold,TRUE,2020-12-16,,
+Car No-1238,Brand-B,Sold,TRUE,2020-12-31,2021-02-19,50
+Car No-1239,Brand-B,Sold,TRUE,2021-01-14,2021-02-28,45
+Car No-1240,Brand-B,Not Sold,TRUE,2021-02-11,,
+Car No-1241,Brand-J,Sold,TRUE,2021-02-23,2021-04-10,46
+Car No-1242,Brand-K,Sold,TRUE,2021-03-03,2021-03-24,21
+Car No-1243,Brand-C,Not Sold,TRUE,2021-03-07,,
+Car No-1244,Brand-C,Sold,TRUE,2021-03-12,2021-04-13,32
+Car No-1245,Brand-B,Sold,TRUE,2021-03-17,2021-04-09,23
+Car No-1246,Brand-C,Not Sold,TRUE,2021-03-22,,
+Car No-1247,Brand-N,Not Sold,TRUE,2021-03-26,,
+Car No-1248,Brand-B,Not Sold,TRUE,2021-03-31,,
+Car No-1249,Brand-I,Sold,TRUE,2021-04-03,2021-04-30,27
+Car No-1250,Brand-I,Sold,TRUE,2021-04-08,2021-04-26,18
+Car No-1251,Brand-B,Not Sold,TRUE,2021-04-16,,
+Car No-1252,Brand-B,Not Sold,TRUE,2021-04-25,,
+Car No-1253,Brand-B,Not Sold,TRUE,2021-05-18,,
+Car No-1254,Brand-B,Not Sold,TRUE,2021-04-30,,
+Car No-1255,Brand-J,Not Sold,TRUE,2021-05-05,,
+Car No-1256,Brand-D,Not Sold,TRUE,2021-05-19,,
+Car No-1257,Brand-B,Not Sold,TRUE,2021-05-19,,
+Car No-1258,Brand-C,Not Sold,TRUE,2021-05-26,,
+Car No-1259,Brand-I,Not Sold,TRUE,2021-06-04,,
+Car No-1260,Brand-D,Not Sold,TRUE,2021-06-09,,
+Car No-1261,Brand-C,Not Sold,FALSE,,,
+Car No-1262,Brand-C,Not Sold,FALSE,,,
+Car No-1263,Brand-B,Sold,TRUE,2020-08-11,2020-08-27,16
+Car No-1264,Brand-I,Not Sold,FALSE,,,
+Car No-1265,Brand-D,Sold,TRUE,2020-08-13,2020-12-08,117
+Car No-1266,Brand-D,Not Sold,FALSE,,,
+Car No-1267,Brand-B,Sold,TRUE,2020-08-24,2020-11-28,96
+Car No-1268,Brand-C,Sold,TRUE,2020-09-17,2020-10-24,37
+Car No-1269,Brand-B,Sold,TRUE,2020-10-04,2020-10-21,17
+Car No-1270,Brand-T,Sold,TRUE,2020-10-14,2020-12-15,62
+Car No-1271,Brand-B,Sold,TRUE,2020-10-23,2021-05-05,194
+Car No-1272,Brand-C,Sold,TRUE,2020-11-24,2021-04-21,148
+Car No-1273,Brand-B,Sold,TRUE,2020-12-05,2021-01-31,57
+Car No-1274,Brand-B,Not Sold,TRUE,2020-12-16,,
+Car No-1275,Brand-C,Sold,TRUE,2021-01-01,2021-04-28,117
+Car No-1276,Brand-B,Sold,TRUE,2021-01-15,2021-03-03,47
+Car No-1277,Brand-I,Sold,TRUE,2021-02-09,2021-02-20,11
+Car No-1278,Brand-I,Sold,TRUE,2021-02-23,2021-03-13,18
+Car No-1279,Brand-C,Sold,TRUE,2021-03-03,2021-03-25,22
+Car No-1280,Brand-D,Sold,TRUE,2021-03-06,2021-04-16,41
+Car No-1281,Brand-B,Sold,TRUE,2021-03-12,2021-04-07,26
+Car No-1282,Brand-B,Sold,TRUE,2021-03-17,2021-04-21,35
+Car No-1283,Brand-B,Not Sold,TRUE,2021-03-22,,
+Car No-1284,Brand-D,Not Sold,TRUE,2021-03-26,,
+Car No-1285,Brand-C,Sold,TRUE,2021-03-31,2021-04-19,19
+Car No-1286,Brand-B,Sold,TRUE,2021-04-03,2021-04-28,25
+Car No-1287,Brand-I,Sold,TRUE,2021-04-08,2021-05-07,29
+Car No-1288,Brand-C,Sold,TRUE,2021-04-13,2021-05-22,39
+Car No-1289,Brand-B,Not Sold,TRUE,2021-04-17,,
+Car No-1290,Brand-B,Not Sold,TRUE,2021-04-22,,
+Car No-1291,Brand-I,Not Sold,TRUE,2021-04-30,,
+Car No-1292,Brand-G,Not Sold,TRUE,2021-04-29,,
+Car No-1293,Brand-I,Not Sold,TRUE,2021-05-03,,
+Car No-1294,Brand-I,Sold,TRUE,2021-05-16,2021-06-16,31
+Car No-1295,Brand-J,Not Sold,TRUE,2021-05-29,,
+Car No-1296,Brand-M,Not Sold,TRUE,2021-06-04,,
+Car No-1297,Brand-I,Not Sold,FALSE,,,
+Car No-1298,Brand-D,Not Sold,TRUE,2021-06-14,,
+Car No-1299,Brand-K,Not Sold,FALSE,,,
+Car No-1300,Brand-B,Not Sold,TRUE,2021-06-22,,
+Car No-1301,Brand-B,Sold,TRUE,2020-08-11,2021-01-14,156
+Car No-1302,Brand-B,Not Sold,FALSE,,,
+Car No-1303,Brand-B,Sold,TRUE,2020-08-14,2021-03-06,204
+Car No-1304,Brand-D,Not Sold,FALSE,,,
+Car No-1305,Brand-D,Sold,TRUE,2020-08-24,2020-09-05,12
+Car No-1306,Brand-C,Sold,TRUE,2020-09-18,2020-12-30,103
+Car No-1307,Brand-D,Sold,TRUE,2020-10-05,2021-01-12,99
+Car No-1308,Brand-B,Sold,TRUE,2020-10-14,2020-12-29,76
+Car No-1309,Brand-K,Sold,TRUE,2020-10-23,2020-11-19,27
+Car No-1310,Brand-I,Sold,TRUE,2020-11-25,2021-02-11,78
+Car No-1311,Brand-B,Sold,TRUE,2020-12-05,2021-05-29,175
+Car No-1312,Brand-B,Sold,TRUE,2020-12-16,2021-01-21,36
+Car No-1313,Brand-B,Not Sold,TRUE,2021-01-01,,
+Car No-1314,Brand-C,Not Sold,TRUE,2021-01-15,,
+Car No-1315,Brand-B,Not Sold,TRUE,2021-02-11,,
+Car No-1316,Brand-D,Sold,TRUE,2021-02-23,2021-03-09,14
+Car No-1317,Brand-G,Sold,TRUE,2021-03-03,2021-03-17,14
+Car No-1318,Brand-D,Not Sold,TRUE,2021-03-08,,
+Car No-1319,Brand-B,Sold,TRUE,2021-03-12,2021-03-29,17
+Car No-1320,Brand-C,Not Sold,TRUE,2021-03-19,,
+Car No-1321,Brand-B,Not Sold,TRUE,2021-03-22,,
+Car No-1322,Brand-B,Sold,TRUE,2021-03-26,2021-04-30,35
+Car No-1323,Brand-B,Not Sold,TRUE,2021-03-31,,
+Car No-1324,Brand-B,Not Sold,TRUE,2021-04-03,,
+Car No-1325,Brand-K,Sold,TRUE,2021-04-08,2021-05-06,28
+Car No-1326,Brand-B,Not Sold,TRUE,2021-04-13,,
+Car No-1327,Brand-O,Sold,TRUE,2021-04-17,2021-05-26,39
+Car No-1328,Brand-B,Not Sold,TRUE,2021-04-22,,
+Car No-1329,Brand-D,Not Sold,TRUE,2021-05-11,,
+Car No-1330,Brand-B,Sold,TRUE,2021-04-27,2021-05-11,14
+Car No-1331,Brand-C,Not Sold,TRUE,2021-05-03,,
+Car No-1332,Brand-L,Not Sold,TRUE,2021-05-11,,
+Car No-1333,Brand-C,Not Sold,TRUE,2021-05-21,,
+Car No-1334,Brand-J,Not Sold,TRUE,2021-05-26,,
+Car No-1335,Brand-C,Not Sold,TRUE,2021-05-26,,
+Car No-1336,Brand-C,Not Sold,TRUE,2021-06-14,,
+Car No-1337,Brand-B,Not Sold,TRUE,2021-06-17,,
+Car No-1338,Brand-B,Not Sold,TRUE,2021-06-23,,
